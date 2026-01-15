@@ -1,0 +1,35 @@
+# Core Dependencies
+streamlit==1.31.0
+python-dotenv==1.0.0
+
+# PDF Processing
+PyMuPDF==1.23.8
+camelot-py[cv]==0.11.0
+pdf2image==1.17.0
+PyPDF2==3.0.1
+
+# OCR
+pytesseract==0.3.10
+easyocr==1.7.0
+
+# Image Processing
+Pillow==10.2.0
+opencv-python==4.9.0.80
+
+# Data Processing
+pandas==2.1.4
+numpy==1.26.3
+
+# ML & Embeddings
+sentence-transformers==2.3.1
+faiss-cpu==1.7.4
+torch==2.1.2
+
+# Azure OpenAI
+openai==1.10.0
+
+# Progress bars
+tqdm==4.66.1
+
+# Additional utilities
+ghostscript==0.7

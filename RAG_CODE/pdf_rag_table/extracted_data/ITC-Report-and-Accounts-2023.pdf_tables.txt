@@ -1,0 +1,5531 @@
+Table 1:
+
+Table 3:
+
+Table 4:
+
+Table 5:
+
+Table 8:
+
+Table 9:
+
+Table 10:
+
+Table 11:
+
+Table 12:
+
+Table 13: | Nil: Nil | Nil: 3 | Nil: 3 | Nil: 2 | Nil: Nil | Nil: 2 | Nil: Nil | Nil: 1 | Nil: Nil | Nil: 1
+
+Table 14: | Nil: 5 | Nil: 3 | Nil: 2 | Nil: Nil | Nil: 3 | Nil: Nil | Nil: 3 | Nil: 1 | Nil: 2
+
+Table 15: | S. Puri: N. Anand | S. Puri: S. Dutta | S. Puri: B. Sumant | S. Puri: S. Banerjee | S. Puri: H. Bhargava | S. Puri: A. Duggal | S. Puri: S. Mukherjee | S. Puri: A. Nayak | S. Puri: N. Rao | S. Puri: A. K. Seth | S. Puri: M. Shankar | S. Puri: P. R. Chittaranjan | S. Puri: M. Gupta | S. Puri: S. Panray | S. Puri: D. R. Simpson
+
+Table 16: | S. Puri: N. Anand | S. Puri: S. Dutta 1 | S. Puri: B. Sumant | S. Puri: S. Banerjee
+
+Table 17: | P. R. Chittaranjan 2: A. Duggal | P. R. Chittaranjan 2: M. Gupta | P. R. Chittaranjan 2: S. Mukherjee
+
+Table 18: | Yes: Yes | Yes: Yes | Yes: Yes | Yes: Yes
+
+Table 19: | A. K. Seth: M. Shankar | A. K. Seth: D. R. Simpson | A. K. Seth: N. Doda 3 | A. K. Seth: R. Tandon 4
+
+Table 20: | Basic / 
+Consolidated: Salary
+
+Table 21: | S. Puri: N. Anand | S. Puri: S. Dutta 1 | S. Puri: B. Sumant | S. Puri: S. Banerjee | S. Puri: H. Bhargava 2 | S. Puri: P. R. Chittaranjan 3 | S. Puri: A. Duggal | S. Puri: M. Gupta 4 | S. Puri: S. Mukherjee 5 | S. Puri: A. Nayak | S. Puri: S. Panray 6 | S. Puri: N. Rao | S. Puri: A. K. Seth | S. Puri: M. Shankar | S. Puri: D. R. Simpson | S. Puri: N. Doda 7 | S. Puri: A. Jerath 8 | S. Puri: S. B. Mathur 9 | S. Puri: R. Tandon 10
+
+Table 22: | 67,250: Nil | 67,250: Nil | 67,250: Nil | 67,250: Nil | 67,250: Nil | 67,250: Nil | 67,250: Nil | 67,250: Nil
+
+Table 23: | Nil: Nil | Nil: Nil | Nil: Nil | Nil: Nil | Nil: 21,000 | Nil: 12,24,955 | Nil: Nil
+
+Table 24: | S. Dutta: B. Sumant | S. Dutta: S. Banerjee | S. Dutta: H. Bhargava | S. Dutta: P. R. Chittaranjan | S. Dutta: A. Duggal | S. Dutta: M. Gupta | S. Dutta: S. Mukherjee | S. Dutta: A. Nayak | S. Dutta: S. Panray | S. Dutta: N. Rao
+
+Table 25: | S. Puri: P. R. Chittaranjan 1 | S. Puri: M. Gupta | S. Puri: S. Panray | S. Puri: N. Rao | S. Puri: A. K. Seth | S. Puri: M. Shankar | S. Puri: D. R. Simpson 
+N. Doda 2
+
+Table 26: | S. Banerjee: H. Bhargava | S. Banerjee: A. Duggal | S. Banerjee: S. Mukherjee | S. Banerjee: A. Nayak | S. Banerjee: N. Rao | S. Banerjee: A. K. Seth | S. Banerjee: M. Shankar
+
+Table 27: | Friday, 11th August, 2023: The AGM will be held on 
+electronic platform | Friday, 11th August, 2023: 10.30 a.m. | Friday, 11th August, 2023: Tuesday, 30th May, 2023 | Friday, 11th August, 2023: Between Monday, 14th August, 2023 
+and Thursday, 17th August, 2023
+
+Table 28: | Venue: Time | Venue: Record Date | Venue: Dividend Payment 
+Date
+
+Table 29: | 1,36,45,672
+52,10,53,685
+53,46,99,357
+4.30: 1,04,21,744
+15,64,61,630
+16,68,83,374
+1.34 | 1,36,45,672
+52,10,53,685
+53,46,99,357
+4.30: 1,15,03,627
+17,91,40,252
+19,06,43,879
+1.54 | 1,36,45,672
+52,10,53,685
+53,46,99,357
+4.30: 90,46,809
+12,67,04,169
+13,57,50,978
+1.09 | 1,36,45,672
+52,10,53,685
+53,46,99,357
+4.30: 40,48,620
+7,89,15,619
+8,29,64,239
+0.67
+
+Table 30: | 1,398
+21,398
+22,796
+0.78: 853
+12,672
+13,525
+0.46 | 1,398
+21,398
+22,796
+0.78: 367
+5,127
+5,494
+0.19 | 1,398
+21,398
+22,796
+0.78: 119
+2,274
+2,393
+0.08
+
+Table 31: | 1  –  5000: 5001  –  10000 | 1  –  5000: 10001  –  20000 | 1  –  5000: 20001  –  30000 | 1  –  5000: 30001  –  40000
+
+Table 32: | 40,21,045
+7,28,33,833
+7,68,54,878
+0.62: 98,54,065
+19,43,41,726
+20,41,95,791
+1.64 | 40,21,045
+7,28,33,833
+7,68,54,878
+0.62: 1,21,95,29,705
+9,81,64,95,540
+11,03,60,25,245
+88.80 | 40,21,045
+7,28,33,833
+7,68,54,878
+0.62: 1,28,20,71,287
+11,14,59,46,454
+12,42,80,17,741
+100.00
+
+Table 33: | 140
+2,766
+2,906
+0.10: 64
+2,574
+2,638
+0.09 | 140
+2,766
+2,906
+0.10: 22,083
+29,08,444
+29,30,527
+100.00
+
+Table 34: | 50001  –  100000: 100001 and above | 50001  –  100000: Total
+
+Table 35: | 2022  APRIL: MAY | 2022  APRIL: JUNE | 2022  APRIL: JULY | 2022  APRIL: AUGUST | 2022  APRIL: SEPTEMBER | 2022  APRIL: OCTOBER
+
+Table 36: | N.A.: N.A. | N.A.: N.A. | N.A.: N.A. | N.A.: N.A. | N.A.: N.A. | N.A.: 3.96 | N.A.: N.A. | N.A.: N.A. | N.A.: N.A. | N.A.: N.A. | N.A.: N.A.
+
+Table 37: | 248.80: 249.20 | 248.80: 258.05 | 248.80: 271.30 | 248.80: 303.15 | 248.80: 316.00 | 248.80: 323.25 | 248.80: 334.35 | 248.80: 325.35 | 248.80: 325.85 | 248.80: 329.00 | 248.80: 369.70
+
+Table 38: | 248.80: 249.15 | 248.80: 258.55 | 248.80: 271.20 | 248.80: 303.10 | 248.80: 316.00 | 248.80: 323.25 | 248.80: 334.40 | 248.80: 325.35 | 248.80: 326.00 | 248.80: 329.10 | 248.80: 369.65
+
+Table 39:
+
+Table 40:
+
+Table 41: | 2019-20: 2018-19 | 2019-20: 2017-18 | 2019-20: 2016-17 | 2019-20: 2015-16 | 2019-20: 2014-15
+
+Table 42: | N.A.: 1,448.88 | N.A.: 1,291.94 | N.A.: 1,174.64 | N.A.: 1,392.48 | N.A.: 1,019.86
+
+Table 43: | 19,255.02: 14,171.55 | 19,255.02: 13,230.31 | 19,255.02: 12,476.63 | 19,255.02: 8,497.59 | 19,255.02: 7,577.15 | 19,255.02: 6,944.65 | 19,255.02: 8,232.61 | 19,255.02: 6,029.57 | 19,255.02: 5,582.90
+
+Table 44: | 15.50 *: 11.50 | 15.50 *: 10.75 | 15.50 *: 10.15 | 15.50 *: 5.75 | 15.50 *: 5.15 | 15.50 *: 4.75 # | 15.50 *: 8.50 ^ | 15.50 *: 6.25 | 15.50 *: 6.00
+
+Table 45: | 27,14,71,349
+0.40: 25,12,50,695
+0.44 | 27,14,71,349
+0.40: 25,27,53,155
+0.40 | 27,14,71,349
+0.40: 22,17,26,812
+0.31 | 27,14,71,349
+0.40: 34,30,71,677
+0.27
+
+Table 46: | 27th August, 2023 *: 2nd September, 2024 | 27th August, 2023 *: 27th August, 2025 | 27th August, 2023 *: 12th August, 2026 | 27th August, 2023 *: 5th October, 2027
+
+Table 47: | 68,40,13,10,170: 57,70,01,46,310 | 68,40,13,10,170: 62,85,22,11,487 | 68,40,13,10,170: 70,48,72,63,716 | 68,40,13,10,170: 1,24,76,63,21,288
+
+Table 48: | 86th: 87th | 86th: 88th | 86th: 89th | 86th: 90th
+
+Table 49: | 2015-16: 2016-17 | 2015-16: 2017-18 | 2015-16: 2018-19 | 2015-16: 2019-20 | 2015-16: 2020-21 | 2015-16: 2021-22 | 2015-16: 2022-23
+
+Table 50: | Number of Shareholders to whom shares were transferred from the Unclaimed Suspense Account upon 
+receipt and verification of necessary documents: Number of shares in respect of which dividend entitlements remained unclaimed for seven consecutive 
+years and transferred from the Unclaimed Suspense Account to the IEPF | Number of Shareholders to whom shares were transferred from the Unclaimed Suspense Account upon 
+receipt and verification of necessary documents: Aggregate number of Shareholders and outstanding shares held in the Unclaimed Suspense Account as 
+on 31st March, 2023
+
+Table 51: | 3,78,661: 20,010 | 3,78,661: 59,47,514 *
+
+Table 52: | 6,606: 118 | 6,606: 112 | 6,606: 24 | 6,606: 6,494
+
+Table 53: | b)  Tax Expense
+ 
+– 
+Current Tax
+ 
+– 
+Deferred Tax: c)  Profit for the year@ | b)  Tax Expense
+ 
+– 
+Current Tax
+ 
+– 
+Deferred Tax: d)  Other Comprehensive Income | b)  Tax Expense
+ 
+– 
+Current Tax
+ 
+– 
+Deferred Tax: e)  Total Comprehensive Income
+
+Table 54: | 4833.88
+(62.18): 15057.83 | 4833.88
+(62.18): 573.85 | 4833.88
+(62.18): 15631.68
+
+Table 55: | 6025.32
+(28.22): 18753.31 | 6025.32
+(28.22): 29.26 | 6025.32
+(28.22): 18782.57
+
+Table 56: | 28210.63: 15057.83 | 28210.63: 23.66 | 28210.63: 315.34 | 28210.63: 7077.59 
+6469.48 
+– | 28210.63: 30060.39
+
+Table 57: | 30060.39: 18753.31 | 30060.39: (16.81) | 30060.39: 20.82 | 30060.39: 7702.03 
+7448.41 
+(20.43) | 30060.39: 33687.70
+
+Table 58: | a)  At the beginning of the year: b)  Add: Profit for the year | a)  At the beginning of the year: c)  Add:  Other Comprehensive Income  
+(net of tax) | a)  At the beginning of the year: d)  Add:  Transfer from Share Options Outstanding 
+Account on exercise and lapse | a)  At the beginning of the year: e)  Less : Dividends
+– 
+Final Dividend of ` 6.25  
+(2022: ` 5.75) per share
+– 
+Interim Dividend of ` 6.00  
+(2022: ` 5.25) per share
+– 
+Income Tax on Dividend paid (refund) | a)  At the beginning of the year: At the end of the year
+f)
+
+Table 59:
+
+Table 60:
+
+Table 61:
+
+Table 62: | Sl. 
+No.: 1; Name of Director: S. Puri 
+(Chairman of the Committee); Designation / Nature  
+of Directorship: Chairman & Managing Director; Number of 
+meetings of CSR 
+and Sustainability 
+Committee held 
+during the year: 3; Number of 
+meetings of CSR 
+and Sustainability 
+Committee attended 
+during the year: 3 | Sl. 
+No.: 2; Name of Director: P. R. Chittaranjan 1; Designation / Nature  
+of Directorship: Non-Executive Director; Number of 
+meetings of CSR 
+and Sustainability 
+Committee attended 
+during the year: N.A. | Sl. 
+No.: 3; Name of Director: M. Gupta; Designation / Nature  
+of Directorship: Non-Executive Director; Number of 
+meetings of CSR 
+and Sustainability 
+Committee attended 
+during the year: 3 | Sl. 
+No.: 4; Name of Director: S. Panray; Designation / Nature  
+of Directorship: Non-Executive Director; Number of 
+meetings of CSR 
+and Sustainability 
+Committee attended 
+during the year: 3 | Sl. 
+No.: 5; Name of Director: N. Rao; Designation / Nature  
+of Directorship: Independent Director; Number of 
+meetings of CSR 
+and Sustainability 
+Committee attended 
+during the year: 3 | Sl. 
+No.: 6; Name of Director: A. K. Seth; Designation / Nature  
+of Directorship: Independent Director; Number of 
+meetings of CSR 
+and Sustainability 
+Committee attended 
+during the year: 3 | Sl. 
+No.: 7; Name of Director: M. Shankar; Designation / Nature  
+of Directorship: Independent Director; Number of 
+meetings of CSR 
+and Sustainability 
+Committee attended 
+during the year: 3 | Sl. 
+No.: 8; Name of Director: D. R. Simpson; Designation / Nature  
+of Directorship: Non-Executive Director; Number of 
+meetings of CSR 
+and Sustainability 
+Committee attended 
+during the year: 3
+
+Table 63: | Brief Description: Thematic Areas /  
+Programmes 
+Covered; ITC implements its CSR Programmes across the country under a Two Horizon approach 
+aimed at holistic development of communities.: The	specific	themes	covered	under	the	Two	Horizon	approach	included:
+Horizon – I: Strengthening today’s livelihoods
+ 
+Climate Smart Agriculture
+  Water Stewardship
+ 
+Social Forestry
+Horizon – II: Building Capabilities for Tomorrow
+ 
+Support to Education
+ 
+Public Health: Sanitation, Health & Nutrition including Swasth India Mission
+  Waste Management including Well Being out of Waste
+ 
+Skilling of Youth
+  Women Empowerment | Brief Description: Projects Covered; ITC implements its CSR Programmes across the country under a Two Horizon approach 
+aimed at holistic development of communities.: 36 projects having budget of more than `	1	crore	each	during	the	financial	year	2020-21	
+were taken up for impact assessment. 
+The purpose of these impact assessment studies was to assess the impact of the CSR 
+projects	and	also	learn	from	the	findings	to	make	course	corrections,	where	required,	and	
+to feed into future programme designing. | Brief Description: Projects Duration; ITC implements its CSR Programmes across the country under a Two Horizon approach 
+aimed at holistic development of communities.: FY 2020-21
+
+Table 64: | States: Impact Assessment 
+Agencies; The assessments covered interventions in the States of Assam, Bihar, Madhya Pradesh, 
+Odisha,  West  Bengal,  Andhra  Pradesh,  Karnataka,  Maharashtra,  Punjab,  Rajasthan, 
+Tamil Nadu, Telangana and Uttar Pradesh.: These  impact  assessments  were  done  by  the  following  six  external  agencies  selected 
+through	 competitive	 bidding	 process,	 and	 assigned	 specific	 projects	 /	 geographies	 for	
+assessment: 
+ 
+CRISIL Private Limited, Mumbai
+ 
+Sutra Consulting Private Limited, Bhubaneswar
+ 
+FDRI Private Limited, Faridabad
+ 
+Ingrain Technologies, Hyderabad
+ 
+Kantar, Mumbai
+ 
+Surge Impact Foundation, Hyderabad | States: Period of Study; The assessments covered interventions in the States of Assam, Bihar, Madhya Pradesh, 
+Odisha,  West  Bengal,  Andhra  Pradesh,  Karnataka,  Maharashtra,  Punjab,  Rajasthan, 
+Tamil Nadu, Telangana and Uttar Pradesh.: FY 2022-23 | States: Methodology; The assessments covered interventions in the States of Assam, Bihar, Madhya Pradesh, 
+Odisha,  West  Bengal,  Andhra  Pradesh,  Karnataka,  Maharashtra,  Punjab,  Rajasthan, 
+Tamil Nadu, Telangana and Uttar Pradesh.: The agencies took up studies through a mixed method approach covering quantitative and 
+qualitative	 data	 collection.	 A	 statistically	 significant	 sample	 size	 was	 covered	 under	 each	
+project. | States: The major impacts recorded by the impact studies are as follows –
+Horizon – I
+	
+Overall,	the	projects	assessed	under	Horizon-I	were	found	to	be	relevant,	effective,	efficient	and	sustainable.	They	
+have not only contributed to higher incomes for farmers, but also enabled climate adaptation and conservation 
+of natural resources. More importantly, their implementation was not affected because of Covid, wherein digital 
+was	not	only	leveraged,	but	also	adopted	quickly	by	the	beneficiaries.
+Climate Smart Agriculture:
+ 
+Under Climate Smart Agriculture, the study covered Bihar, MP and Assam where post intervention, improvement 
+was observed in average yields of major crops of wheat, maize, paddy and soyabean. Overall, 35% improvement 
+was witnessed in wheat as compared to baseline and as against 13% reduction in control group, with highest 
+increase of 81% observed in Begusarai. 
+ 
+Overall increase in production for all major crops due to adoption of Climate Smart Agricultural practices was 
+52% in the study conducted covering Maharashtra and Punjab. Among major crops (onion, sugarcane, wheat 
+and paddy), highest increase in production was in onion (50%).
+ 
+2.4 times and 5.3 times increase in awareness; and 3 times & 2.3 times increase in adoption of seed treatment 
+practices in the model villages of Assam and Bihar, respectively. 
+ 
+Integrated Pest Management Kit - Farmers appreciated the utility of phermone traps and 96% continued usage of 
+the same in subsequent years after the project. The traps helped in reducing the number of rounds of pesticide 
+spray (by 2-3 in number), thus saving costs to the tune of ` 6,000 to ` 8,000 per hectare.
+	
+Tray	seedlings	showed	up	to	99%	establishment	in	main	field	even	in	non-conducive	climate,	wherein	they	could	
+withstand water stress and could give yield improvement of 12% to 17%. The barn roof insulations and turbo 
+ventilators were instrumental in saving 25% to 28% of fuel wood.
+Water Stewardship:
+ 
+In the assessment conducted in select Districts of Bihar, Madhya Pradesh and Odisha, improvement in water 
+availability due to the Water Stewardship Programme resulted in an increase in average irrigated area by 7.5% 
+post  intervention.  In  the  study  covering  Andhra  Pradesh,  Telangana,  Rajasthan,  Karnataka  and  Tamil  Nadu, 
+99%  respondents  stated  that  the  project  had  resulted  not  only  in  reduction  in  water  consumption,  but  also 
+improvement in income because of timely availability of water.
+
+Table 65: | Amount Unspent (in `): Total Amount transferred to Unspent 
+CSR Account as per Section 135(6) | Amount Unspent (in `): Amount
+Date of transfer | Total Amount 
+spent for the 
+Financial Year  
+(in `): ` 342.40 crores; Amount Unspent (in `): 26th April, 2023
+` 23.10 crores *
+
+Table 66: | Sl. 
+No.: (1); Particular: (2); Amount (in `): (3) | Sl. 
+No.: (i); Particular: Two	percent	of	average	net	profits	of	the	Company	as	per	Section	135(5); Amount (in `): ` 364.91 crores | Sl. 
+No.: (ii); Particular: Total amount spent for the Financial Year; Amount (in `): ` 365.50 crores | Sl. 
+No.: (iii); Particular: Excess	amount	spent	for	the	Financial	Year	[(ii)-(i)]; Amount (in `): ` 0.59 crore | Sl. 
+No.: (iv); Particular: Surplus  arising  out  of  the  CSR  projects  or  programmes  or  activities  of  the  previous 
+Financial Years, if any; Amount (in `): Nil | Sl. 
+No.: (v); Particular: Amount	available	for	set	off	in	succeeding	Financial	Years	[(iii)-(iv)]; Amount (in `): ` 1.35 crores *
+
+Table 67: | 1: Sl. 
+No.; 2: Preceding  
+Financial  
+Year(s); 3: Amount 
+transferred to 
+Unspent CSR  
+Account under 
+Section 135(6) 
+(in `); 4: Balance  
+Amount in  
+Unspent CSR  
+Account under 
+Section 135(6) 
+(in `); 5: Amount 
+Spent in the  
+Financial 
+Year (in `); 6: Amount transferred to a Fund 
+as	specified	under	Schedule	
+VII as per second proviso to 
+Section 135(5),if any; 7: Amount  
+remaining to 
+be spent in  
+succeeding  
+Financial 
+Years (in `); 8: Deficiency,	
+if any | 6: Amount 
+Date of 
+Transfer
+(in `) | 1: 1; 2: 2021-22; 3: ` 3.90 crores; 4: Nil; 5: ` 3.90 crores; 6: Not Applicable
+
+Table 68: | Details	of	entity	/	Authority	/	beneficiary	
+of the registered owner: Name
+Registered 
+CSR Registration 
+address
+Number, if 
+applicable | Sl.  
+No.: 1; Short particulars of the 
+property or asset(s)  
+[including complete  
+address and location 
+of the property]: 2; Pincode of 
+the property 
+or asset(s): 3; Date of 
+creation: 4; Amount 
+of CSR 
+amount 
+spent: 5; Details	of	entity	/	Authority	/	beneficiary	
+of the registered owner: 6 | Sl.  
+No.: Not Applicable
+
+Table 69: | For the year ended 
+31st March, 2023: (` in Lakhs)
+966.98
+16,131.46
+17,098.44
+0.25%
+
+Table 70: | FY23: 35.6; FY22: 33.6 | FY23: 26.9; FY22: 25.5 | FY23: 32.5; FY22: 29.2 | FY23: 6.7; FY22: 6.1 | FY23: 2.8; FY22: 2.7 | FY23: 29.0; FY22: 25.0
+
+Table 71: | (416.74): 37.89 
+(593.98)
+24156.43 | (416.74): (603.25) | (416.74): (596.13)
+
+Table 72: | 56.00: 556.90 | 56.00: 1216.27 | 56.00: (7427.20) | 56.00: 5476.33 | 56.00: (3500.00) | 56.00: 5000.00 | 56.00: (8.21)
+
+Table 73: | 19829.53: 1652.15 | 19829.53: 32.51 | 19829.53: 41.95 | 19829.53: (1004.59) | 19829.53: (857.46) | 19829.53: (59.05)
+10.64 | 19829.53: 1.15 | 19829.53: – | 19829.53: (524.19)
+11.07 
+(695.82)
+19133.71 | 19829.53: (235.39) | 19829.53: (526.90) | 19829.53: 946.39
+184.10 
+19317.81 | 19829.53: (4510.02) | 19829.53: 14807.79 | 19829.53: (1812.03) | 19829.53: 137.22 | 19829.53: (60325.53) | 19829.53: 63554.78 | 19829.53: (71.25)
+ (427.24) | 19829.53: (1.87)
+(4777.02) | 19829.53: 2731.24 | 19829.53: – | 19829.53: – | 19829.53: 857.46 | 19829.53: 962.97 | 19829.53: (3525.01) | 19829.53: 3617.42 | 19829.53: (3011.37) | 19829.53: 578.82 | 19829.53: (12.51) | 19829.53: 6.86 
+(1517.06)
+
+Table 74: | 2477.39: (0.74) | 2477.39: (51.97) | 2477.39: (40.04) | 2477.39: 14.94 | 2477.39: (15150.44) | 2477.39: 20.43 
+(12730.43) | 2477.39: 21.90 | 2477.39: 184.98 | 2477.39: 206.88
+
+Table 75: | 291.82: (0.35) | 291.82: (54.42) | 291.82: (42.14) | 291.82: 15.13 | 291.82: (13547.07) | 291.82: –   
+(13337.03) | 291.82: (46.30) | 291.82: 231.28 | 291.82: 184.98
+
+Table 76: | Buildings: Leasehold Improvements | Buildings: Plant and Equipment | Buildings: Furniture and Fixtures | Buildings: Vehicles | Buildings: Office Equipment
+
+Table 77: | 30-60 Years: Shorter  of  lease  period  or 
+estimated useful lives | 30-60 Years: 3-25 Years | 30-60 Years: 8-10 Years | 30-60 Years: 8-10 Years | 30-60 Years: 5 Years
+
+Table 78: | 25.  Other Expenses
+Power and fuel
+ 1199.84 
+ 864.05: Consumption of stores and spare parts
+ 446.03 
+ 353.48 | 25.  Other Expenses
+Power and fuel
+ 1199.84 
+ 864.05: Contract processing charges 
+ 941.72 
+ 814.41 | 25.  Other Expenses
+Power and fuel
+ 1199.84 
+ 864.05: Rent
+ 239.68 
+ 196.00 | 25.  Other Expenses
+Power and fuel
+ 1199.84 
+ 864.05: Rates and taxes
+ 153.02 
+ 114.59 | 25.  Other Expenses
+Power and fuel
+ 1199.84 
+ 864.05: Insurance
+ 132.43 
+ 122.39 | 25.  Other Expenses
+Power and fuel
+ 1199.84 
+ 864.05: Repairs
+ 
+– 
+Buildings
+ 104.80 
+ 61.11 | 25.  Other Expenses
+Power and fuel
+ 1199.84 
+ 864.05: – 
+Machinery
+ 325.43 
+ 263.29 | 25.  Other Expenses
+Power and fuel
+ 1199.84 
+ 864.05: – 
+Others
+ 81.43 
+ 55.05 | 25.  Other Expenses
+Power and fuel
+ 1199.84 
+ 864.05: Maintenance and upkeep
+ 312.93 
+ 251.89 | 25.  Other Expenses
+Power and fuel
+ 1199.84 
+ 864.05: Outward freight and handling charges
+ 1648.69 
+ 1624.97 | 25.  Other Expenses
+Power and fuel
+ 1199.84 
+ 864.05: Warehousing charges
+ 233.72 
+ 200.35 | 25.  Other Expenses
+Power and fuel
+ 1199.84 
+ 864.05: Advertising / Sales promotion
+ 1155.71 
+ 980.63 | 25.  Other Expenses
+Power and fuel
+ 1199.84 
+ 864.05: Market research
+ 153.38 
+ 161.59 | 25.  Other Expenses
+Power and fuel
+ 1199.84 
+ 864.05: Design and product development
+ 48.08 
+ 36.17 | 25.  Other Expenses
+Power and fuel
+ 1199.84 
+ 864.05: Hotel reservation / Marketing expenses
+ 56.76 
+ 27.14 | 25.  Other Expenses
+Power and fuel
+ 1199.84 
+ 864.05: Retail accessories
+ 224.54 
+ 206.54 | 25.  Other Expenses
+Power and fuel
+ 1199.84 
+ 864.05: Brokerage and discount - sales
+ 17.82 
+ 23.55 | 25.  Other Expenses
+Power and fuel
+ 1199.84 
+ 864.05: Commission to selling agents
+ 18.92 
+ 18.30 | 25.  Other Expenses
+Power and fuel
+ 1199.84 
+ 864.05: Doubtful and bad debts
+ (0.93)
+ 10.64 | 25.  Other Expenses
+Power and fuel
+ 1199.84 
+ 864.05: Doubtful and bad advances, loans and deposits
+ 1.16 
+ 1.15 | 25.  Other Expenses
+Power and fuel
+ 1199.84 
+ 864.05: Bank and credit card charges
+ 31.77 
+ 18.58 | 25.  Other Expenses
+Power and fuel
+ 1199.84 
+ 864.05: Information technology services
+ 311.31 
+ 274.48 | 25.  Other Expenses
+Power and fuel
+ 1199.84 
+ 864.05: Travelling and conveyance
+ 266.31 
+ 182.18 | 25.  Other Expenses
+Power and fuel
+ 1199.84 
+ 864.05: Training and development
+ 18.55 
+ 13.64 | 25.  Other Expenses
+Power and fuel
+ 1199.84 
+ 864.05: Legal expenses
+ 37.07 
+ 30.42 | 25.  Other Expenses
+Power and fuel
+ 1199.84 
+ 864.05: Consultancy / Professional fees
+ 175.52 
+ 153.08 | 25.  Other Expenses
+Power and fuel
+ 1199.84 
+ 864.05: Postage, telephone etc.
+ 19.48 
+ 18.33 | 25.  Other Expenses
+Power and fuel
+ 1199.84 
+ 864.05: Printing and stationery
+ 16.66 
+ 11.80 | 25.  Other Expenses
+Power and fuel
+ 1199.84 
+ 864.05: (Gain) / Loss on sale of property, plant and equipment - Net
+ 4.88 
+ (58.77) | 25.  Other Expenses
+Power and fuel
+ 1199.84 
+ 864.05: Loss on sale of stores and spare parts - Net
+ 1.45 
+ 4.71 | 25.  Other Expenses
+Power and fuel
+ 1199.84 
+ 864.05: Miscellaneous expenses 
+ 1271.00 
+ 1077.36 | 25.  Other Expenses
+Power and fuel
+ 1199.84 
+ 864.05: TOTAL
+ 9649.16 
+ 8113.10 | 25.  Other Expenses
+Power and fuel
+ 1199.84 
+ 864.05: Miscellaneous expenses include :
+ 
+(1)  Auditors’ remuneration and expenses* | 25.  Other Expenses
+Power and fuel
+ 1199.84 
+ 864.05: Audit fees
+ 3.40 
+ 3.40 | 25.  Other Expenses
+Power and fuel
+ 1199.84 
+ 864.05: Tax audit fees
+ 0.70 
+ 0.70 | 25.  Other Expenses
+Power and fuel
+ 1199.84 
+ 864.05: Fees for limited review
+ 1.40 
+ 1.40 | 25.  Other Expenses
+Power and fuel
+ 1199.84 
+ 864.05: 0.44 
+ 0.58 
+ 
+Fees for other services# | 25.  Other Expenses
+Power and fuel
+ 1199.84 
+ 864.05: Reimbursement of expenses
+ 0.22 
+ 0.01 | 25.  Other Expenses
+Power and fuel
+ 1199.84 
+ 864.05: (2)  Cost auditors’ fees
+ 0.11 
+ 0.11
+
+Table 79: | Enterprises where  
+control exists: Subsidiaries | Enterprises where  
+control exists: 2023; Associates: 2023; Joint Ventures: 2023; Key Management  
+Personnel (KMP): 2023; Relatives of  
+KMP^: 2023; Employee  
+Trusts: 2023; Total: 2023 | RELATED PARTY TRANSACTIONS SUMMARY: 1.
+2.
+3.
+4.
+5.
+6.
+7.
+7A.
+7B.
+8.
+9.
+10.
+11.
+12.
+13.
+14.
+15.
+16.
+17.
+18.
+19.
+20.
+21.
+22.
+23.
+24.
+24A.
+24B.
+24C.
+24D.
+25.
+ 
+ 
+ 
+ 
+ 
+26.; Enterprises where  
+control exists: 356.99
+429.41
+15.64
+ 
+1184.14
+18.00
+ 
+ (4.09)
+7.40
+24.73
+11.58
+2.45
+40.68
+ 
+556.54
+ 
+10.36
+13.88
+3.18
+ 0.03 
+ 0.03 
+ 0.12 
+120.99
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+38.61
+0.60
+26.96
+ 
+6.25
+0.66; Associates: 1849.19
+116.79
+ 
+ 
+1.88
+ 
+ 
+ 
+1.83
+0.72
+4.32
+7.06
+7.95
+ 
+0.35
+4434.03
+ 
+29.10
+0.25
+ 
+ 
+1813.30
+1786.29
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+46.56
+ 
+719.42
+0.04
+6.25; Joint Ventures: 93.84
+438.27
+ 
+ 
+ 
+ 
+ 
+ 
+0.37
+ 
+ 
+ 
+1.76
+ 
+ 
+ 
+ 
+0.30
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+16.04
+ 
+ 
+ 
+20.60; Key Management  
+Personnel (KMP): 0.44
+ 
+ 
+ 
+ 
+ 
+ 
+1.02
+ 
+ 
+ 
+ 
+6.25
+ 
+ 
+ 0.02 
+ 
+ 
+ 
+ 
+ – 
+0.02
+ 
+46.76
+28.95
+13.06
+ 
+ 
+ 
+0.06; Relatives of  
+KMP^: 0.05 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+0.32
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+0.07; Employee  
+Trusts: 115.04
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 40.35; Total: 2300.02
+984.52
+15.64
+ 0.44 
+1186.02
+ 18.00 
+ 
+ (4.09)
+9.60
+25.45
+17.24
+9.51
+50.39
+115.04
+556.89
+4440.28
+10.36
+43.28
+3.45
+0.03
+ 0.03 
+1813.42
+1907.28
+ – 
+0.02
+ 
+46.76
+28.95
+13.06
+ 
+ 
+101.21
+0.73
+746.38
+0.04
+73.45
+0.66
+
+Table 80:
+
+Table 81: | 21.02
+96.02
+39.47
+37.07
+21.04
+ 20.19 
+11.70
+10.90
+ 
+ 
+149.60
+ 451.56 
+383.24
+ 346.84 
+ 
+ 
+3648.48
+3276.18
+595.73
+534.94
+ 
+ 
+9.81
+0.17
+0.10
+1.80
+0.45
+0.45
+ 
+ 
+21.97
+ 14.26 
+–
+ 4.95 
+5.76
+–
+3.74
+ 3.54 
+ 
+ 
+1.84
+ 2.11 
+0.46
+ 0.46 
+0.57
+–
+ 
+ 
+ 0.03 
+ 0.45 
+ 
+ 
+0.03
+ 0.45 
+ 
+ 
+1152.95
+1494.26
+650.55
+–
+ 
+ 
+1324.76
+ 967.97 
+451.75
+–
+120.87
+ 152.01 
+ 
+ 
+–
+ … 
+ 
+ 
+0.02
+–: 12.09
+ 10.66 
+5.96
+ 5.37 
+1.62
+ 4.84 
+5.35
+ 4.84
+
+Table 82: | 1352.17
+ 985.49 
+ 446.96 
+ – 
+ 328.58 
+ 308.47 
+ 
+ 
+ 438.11 
+ 280.19 
+ 176.19 
+ 167.68 
+ 183.00 
+ 166.90 
+ 
+ 
+ 14.38 
+ 9.96 
+ 
+ 
+ 0.20 
+ – 
+ 0.12 
+ – 
+ 0.12 
+ – 
+ 
+ 
+ 606.14 
+ 327.24 
+ 448.00 
+ – 
+ 130.00 
+ 100.00 
+ 
+ 
+ 18.00 
+ –: (4.09)
+ (21.96)
+ 
+ 
+ 2.36 
+ 0.38 
+ 0.06 
+0.37
+ 2.23 
+0.34
+ 1.46 
+0.32
+ 0.61 
+0.28
+ 1.04 
+0.17
+ 
+ 
+ 20.20 
+ 20.97 
+ 3.08 
+ 3.23 
+ 
+ 
+ 2.48 
+ 1.31 
+6.87
+ 6.35 
+1.46
+ 1.46 
+4.32
+ 2.51 
+ 
+ 
+7.06
+ 5.36 
+1.76
+ 1.30 
+0.69
+ 1.10 | 1352.17
+ 985.49 
+ 446.96 
+ – 
+ 328.58 
+ 308.47 
+ 
+ 
+ 438.11 
+ 280.19 
+ 176.19 
+ 167.68 
+ 183.00 
+ 166.90 
+ 
+ 
+ 14.38 
+ 9.96 
+ 
+ 
+ 0.20 
+ – 
+ 0.12 
+ – 
+ 0.12 
+ – 
+ 
+ 
+ 606.14 
+ 327.24 
+ 448.00 
+ – 
+ 130.00 
+ 100.00 
+ 
+ 
+ 18.00 
+ –: 10.66
+ 9.17 
+5.86
+ 5.77 
+6.35
+ 5.35 
+4.62
+ 4.56
+
+Table 83: | Key audit matters
+How our audit addressed the key audit matter: Revenue recognition | Key audit matters
+How our audit addressed the key audit matter: Revenue  from  the  sale  of  goods  (hereinafter  referred 
+to  as  “Revenue”) 
+is  recognised  when 
+the  Company 
+performs its obligation to its customers and the amount 
+of revenue can be measured reliably and recovery of the 
+consideration  is  probable.  The  timing  of  such  revenue 
+recognition in case of sale of goods is when the control 
+over the same is transferred to the customer, which is 
+mainly upon delivery.
+The 
+timing  of 
+revenue 
+recognition 
+is 
+relevant 
+to 
+the 
+reported 
+performance 
+of 
+the  Company.  The 
+management considers revenue as a key measure for
+
+Table 84: | Key audit matters: evaluation  of  performance.  There  is  a  risk  of  revenue 
+being recorded before control is transferred. 
+Refer  Note  1 
+to 
+the  Standalone 
+Ind  AS  Financial 
+Statements  -  Significant  Accounting  Policies  and  Note 
+21A / 21B.; How our audit addressed the key audit matter: Tested the effectiveness of such controls over revenue 
+cut off at year-end. 
+   On a sample basis, tested supporting documentation 
+for sales transactions recorded during the year which 
+included  sales 
+invoices,  customer  contracts  and 
+shipping documents.
+   Performed  an  increased  level  of  substantive  testing 
+in  respect  of  sales  transactions  recorded  during  the 
+period closer to the year end and subsequent to the 
+year end.
+   Compared  revenue  with  historical  trends  and  where 
+appropriate, conducted further enquiries and testing.
+   Assessed  disclosures 
+in 
+financial 
+statements 
+in 
+respect of revenue, as specified in Ind AS 115. | Key audit matters: Impairment assessment  of investment  in  WelcomHotels Lanka (Private) Limited (‘WLPL’), a wholly  owned 
+subsidiary | Key audit matters: WLPL  is  developing  a  mixed-use  project  in  Colombo, 
+Sri  Lanka  which 
+includes  a  hotel  and  a  residential 
+apartment  complex.  At  March  31,  2023,  the  carrying 
+value of Company’s investment in WLPL is INR 2,775.41 
+crores.  The  Company’s 
+investments 
+in  subsidiaries 
+are  assessed  annually  by  management  for  potential 
+indicators of impairment.
+In  view  of 
+the  deterioration 
+in 
+the  macro-economic 
+scenario in Sri Lanka, the Company has assessed the 
+carrying  value  of  investments  basis  evaluation  of  the 
+recoverable value of the capital work in progress of the 
+hotel (PPE) and inventory of the residential apartments 
+being  developed  by  WLPL.  The  said  determination  is 
+based  on  assumptions,  that  by  their  nature  imply  the 
+use of the management’s judgement, in particular with 
+reference to forecast of future cash flows, selling price, 
+balance  cost 
+to  complete 
+the  project,  selling  costs, 
+terminal  value, 
+long-term  growth  rates  and  discount 
+rates applied to such forecasted cash flows. Considering 
+the  judgement  required  for  estimating  the  cash  flows 
+and the assumptions used, this is considered as a key 
+audit  matter.
+Refer Note 1 – Significant Accounting Policies and Note 
+2 – Use of estimates and judgements to the Standalone 
+Ind AS Financial Statements; How our audit addressed the key audit matter: Our audit procedures included the following:
+   Evaluated 
+the 
+key 
+judgements / assumptions 
+underlying  management’s  assessment  of  potential 
+indicators of impairment.
+   Obtained and read the projections / estimated selling 
+price / future cashflows along with sensitivity analysis 
+thereof of the underlying PPE and inventory at WLPL.
+   Discussed  and  obtained  assessment  of  recoverable 
+value of PPE and inventory from component auditor 
+of WLPL.
+   Evaluated management’s methodology, assumptions 
+and estimates used in these calculations.
+   Involved 
+valuation 
+specialist 
+to 
+review 
+the 
+appropriateness of methodology and key assumptions 
+considered by management to determine discounted 
+future cash flows.
+   Performed  sensitivity  analysis  around 
+impact  on 
+future cash flows due to changes in key assumptions 
+considered by management.
+   Verified the arithmetical accuracy of the future cash flow 
+model including comparison with approved budgets.
+   Assessed the recoverability of investment with regard 
+to underlying value in use of PPE and net realisable 
+value of inventory in WLPL.
+
+Table 85: | Name of  
+the statute: Sales Tax and 
+Value Added  
+Tax Laws; Nature of 
+the dues: Sales Tax 
+and VAT; Amount  
+(` in Crores)*: 38.93
+33.69
+229.78; Period to which  
+the amount relates  
+(Financial Year): 1987-2020
+2006-2018
+ 
+1979-2017; Forums where the dispute  
+is pending: Appellate Authority –  
+upto commissioners’ /  
+Revisional Authorities Level 
+Appellate Authority –  
+Tribunal Level 
+High Court | Name of  
+the statute: Customs Act, 
+1962; Nature of 
+the dues: Customs 
+Duty; Amount  
+(` in Crores)*: 0.87 
+8.53 
+5.21; Period to which  
+the amount relates  
+(Financial Year): 2012-2021 
+ 2015-2021 
+2006-2009; Forums where the dispute  
+is pending: Appellate Authority –  
+upto commissioners’ /  
+Revisional Authorities Level 
+Appellate Authority –  
+Tribunal Level 
+High Court | Name of  
+the statute: Central Excise 
+Act, 1944; Nature of 
+the dues: Excise Duty; Amount  
+(` in Crores)*: 0.33 
+57.69 
+ 
+4.46; Period to which  
+the amount relates  
+(Financial Year): 1996-2017 
+ 1973-2018 
+ 
+ 2004-2012; Forums where the dispute  
+is pending: Appellate Authority –  
+upto commissioners’ /  
+Revisional Authorities Level 
+Appellate Authority –  
+Tribunal Level 
+High Court | Name of  
+the statute: Finance Act, 
+1994; Nature of 
+the dues: Service Tax; Amount  
+(` in Crores)*: 3.04  
+ 
+79.75 
+ 
+5.40; Period to which  
+the amount relates  
+(Financial Year): 2007-2017  
+ 
+ 2003-2017 
+ 
+ 2005-2017; Forums where the dispute  
+is pending: Appellate Authority –  
+upto commissioners’ /  
+Revisional Authorities Level 
+Appellate Authority –  
+Tribunal Level 
+High Court | Name of  
+the statute: Entry Tax Laws; Nature of 
+the dues: Entry Tax; Amount  
+(` in Crores)*: 0.15 
+18.32 
+ 
+68.49; Period to which  
+the amount relates  
+(Financial Year): 2005-2017 
+2011-2018 
+ 
+1999-2018; Forums where the dispute  
+is pending: Appellate Authority –  
+upto commissioners’ /  
+Revisional Authorities Level 
+Appellate Authority –  
+Tribunal Level 
+High Court
+
+Table 86: | Name of  
+the statute: Luxury Tax Laws; Nature of 
+the dues: Luxury Tax; Amount  
+(` in Crores)*: 54.95; Period to which  
+the amount relates  
+(Financial Year): 1999-2004; Forums where the dispute  
+is pending: Supreme Court | Name of  
+the statute: Goods and 
+Services Tax; Nature of 
+the dues: Goods and 
+Services Tax; Amount  
+(` in Crores)*: 4.76
+0.01; Period to which  
+the amount relates  
+(Financial Year): 2017-2019
+2017; Forums where the dispute  
+is pending: Appellate Authority –  
+upto commissioners’ /  
+Revisional Authorities Level
+High Court | Name of  
+the statute: Mandi Laws; Nature of 
+the dues: Mandi Fees 
+& Cess; Amount  
+(` in Crores)*: 2.03 
+ 
+ 1.80; Period to which  
+the amount relates  
+(Financial Year): 2010-2022 
+ 
+2001-2023; Forums where the dispute  
+is pending: H
+Mandi Board
+igh Court | Name of  
+the statute: Municipal, Local 
+Bodies and 
+Property Tax 
+Laws; Nature of 
+the dues: Municipal, 
+Local 
+Bodies and 
+Property 
+Taxes & 
+Charges; Amount  
+(` in Crores)*: 3.44 
+2.40 
+ 
+31.43; Period to which  
+the amount relates  
+(Financial Year): 2014-2021 
+2004 
+ 
+2001-2018; Forums where the dispute  
+is pending: Appellate Authority –  
+upto commissioners’ /  
+Revisional Authorities 
+Level / Municipal Council 
+Appellate Authority –  
+Tribunal Level 
+High Court | Name of  
+the statute: Stamp Duty 
+Laws; Nature of 
+the dues: Stamp Duty; Amount  
+(` in Crores)*: 4.22  
+0.03; Period to which  
+the amount relates  
+(Financial Year): 2004-2016  
+1987-2008; Forums where the dispute  
+is pending: Registrar /  
+Appellate Authority 
+High Court | Name of  
+the statute: The Employees’ 
+Provident 
+Funds and 
+Miscellaneous 
+Provisions Act, 
+1952; Nature of 
+the dues: Provident 
+Fund; Amount  
+(` in Crores)*: 0.49  
+1.52; Period to which  
+the amount relates  
+(Financial Year): 2012-2020  
+1982-1990; Forums where the dispute  
+is pending: H
+Appellate Authority- Tribunal 
+Level  
+igh Court | Name of  
+the statute: Employees’ 
+State Insurance 
+Act, 1948; Nature of 
+the dues: Employees’ 
+State 
+Insurance; Amount  
+(` in Crores)*: 0.08 
+0.06; Period to which  
+the amount relates  
+(Financial Year): 2007-2014 
+1995-1996; Forums where the dispute  
+is pending: H
+Principal Labour Court
+igh Court
+
+Table 87: | Name
+Country of 
+Percentage of 
+Percentage of 
+Incorporation
+ownership  
+ownership  
+interest as at  
+interest as at  
+31st March, 2022
+31st March, 2023: ITC Infotech India Limited
+India
+100
+100
+ITC Infotech Limited 
+(a 100% subsidiary of ITC Infotech India Limited)
+UK
+100
+100
+ITC Infotech (USA), Inc. 
+(a 100% subsidiary of ITC Infotech India Limited)
+USA
+100
+100
+Indivate Inc. 
+(a 100% subsidiary of ITC Infotech (USA), Inc.)
+USA
+100
+100
+ITC Infotech Do Brasil LTDA. 
+(a 100% subsidiary of ITC Infotech India Limited w.e.f. 
+10.10.2022)
+Brazil
+100
+–
+ITC Infotech Malaysia SDN. BHD. 
+(a 100% subsidiary of ITC Infotech India Limited  
+w.e.f. 03.02.2023)
+Malaysia
+100
+–
+ITC Infotech France SAS 
+(a 100% subsidiary of ITC Infotech India Limited w.e.f. 
+08.02.2023)
+France
+100
+–
+ITC Infotech GmbH 
+(a 100% subsidiary of ITC Infotech India Limited w.e.f. 
+10.03.2023)
+Germany
+100
+–
+Surya Nepal Private Limited 
+Nepal
+59
+59
+Technico Agri Sciences Limited
+India
+100
+100
+Technico Pty Limited
+Australia
+100
+100
+Technico Technologies Inc.  
+(a 100% subsidiary of Technico Pty Limited)
+Canada
+100
+100
+
+Table 88: | Name
+Country of 
+Percentage of 
+Percentage of 
+Incorporation
+ownership  
+ownership  
+interest as at  
+interest as at  
+31st March, 2022
+31st March, 2023: Technico Asia Holdings Pty Limited 
+(a 100% subsidiary of Technico Pty Limited)
+Australia
+100
+100
+Technico Horticultural (Kunming) Co. Limited 
+(a 100% subsidiary of Technico Asia Holdings Pty Limited)
+China
+100
+100
+Srinivasa Resorts Limited 
+India
+68
+68
+Fortune Park Hotels Limited 
+India
+100
+100
+Landbase India Limited
+India
+100
+100
+Bay Islands Hotels Limited 
+India
+100
+100
+WelcomHotels Lanka (Private) Limited
+Sri Lanka
+100
+100
+Russell Credit Limited
+India
+100
+100
+Greenacre Holdings Limited  
+(a 100% subsidiary of Russell Credit Limited)
+India
+100
+100
+Wimco Limited
+India
+100
+100
+Gold Flake Corporation Limited
+India
+100
+100
+ITC Integrated Business Services Limited (formerly known 
+as ITC Investments & Holdings Limited)*
+India
+100
+100
+MRR Trading & Investment Company Limited 
+(a 100% subsidiary of ITC Integrated Business Services Limited)
+India
+100
+100
+North East Nutrients Private Limited 
+India
+76
+76
+Prag Agro Farm Limited
+India
+100
+100
+Pavan Poplar Limited
+India
+100
+100
+ITC IndiVision Limited
+India
+100
+100
+ITC Fibre Innovations Limited 
+(w.e.f. 03.03.2023)
+India
+100
+–
+
+Table 89: | Percentage of 
+Country of 
+Name
+Percentage of  
+ownership  
+Incorporation
+ownership 
+interest as at  
+interest as at  
+31st March, 2022
+31st March, 2023: Espirit Hotels Private Limited (Refer Note 28(viii))
+India
+26
+26
+Logix Developers Private Limited (Refer Note 28(ix))
+India
+27.90
+27.90
+ITC Essentra Limited 
+(a joint venture of Gold Flake Corporation Limited)
+India
+50
+50
+Maharaja Heritage Resorts Limited
+India
+50
+50
+
+Table 90: | Name
+Country of 
+Percentage of 
+Percentage of  
+Incorporation
+ownership  
+ownership  
+interest as at  
+interest as at  
+31st March, 2023
+31st March, 2022: Gujarat Hotels Limited
+India
+45.78
+45.78
+International Travel House Limited
+India
+48.96
+48.96
+Russell Investments Limited*
+India
+25.43
+25.43
+Divya Management Limited*
+India
+33.33
+33.33
+Antrang Finance Limited*
+India
+33.33
+33.33
+ATC Limited 
+(an associate of Gold Flake Corporation Limited)
+India
+47.50
+47.50
+Delectable Technologies Private Limited 
+India
+27.34#
+33.42#
+Mother Sparsh Baby Care Private Limited  
+–
+(w.e.f. 27.10.2022) (Refer Note 28(x))
+India
+22.00#
+
+Table 91: | Associates: 2023; Joint Ventures: 2023; Key Management 
+Personnel (KMP): 2023; Relatives of 
+KMP^: 2023; Employee Trusts: 2023; Total: 2023 | RELATED PARTY TRANSACTIONS SUMMARY: Sale of Goods / Services
+Purchase of Goods / Services
+Sale of Property, Plant and Equipment
+Investment in Associate
+Reimbursement for Share Based Payments
+Rent Received
+Rent Paid*
+Remuneration of Managers on Deputation reimbursed
+Remuneration of Managers on Deputation recovered
+Contribution to Employees’ Benefit Plans
+Dividend Income
+Dividend Payments
+Expenses Recovered
+Expenses Reimbursed
+Adjustment / Receipt towards Refund of Advances
+Advances Received during the year
+Adjustment / Payment towards Refund of Advances
+Deposits Given during the year
+Adjustment / Receipt towards Refund of Deposit
+Remuneration to KMP 1
+ 
+– Short term benefits
+ 
+– Other long-term incentives
+ 
+– Other remuneration
+ 
+– Share Based Payments 2
+i) 
+Receivables
+ii) 
+Advances Given
+iii)  Deposits Given
+iv)  Advances Taken
+v) 
+Deposits Taken
+vi)  Payables; Associates: 2070.86
+136.63
+ 
+1.88
+1.83
+0.88
+4.32
+7.06
+7.95
+ 
+0.56
+4447.03
+29.10
+0.25
+ – 
+1813.30
+1786.29
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+105.86
+ 
+ 
+719.42
+0.61
+6.35; Joint Ventures: 93.84
+438.31
+ 
+ 
+0.37
+ 
+ 
+ 
+1.76
+ 
+ 18.00 
+ 
+0.30
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+16.04
+ 
+ 
+ 
+ 
+20.60; Key Management 
+Personnel (KMP): 0.44
+ 
+ 
+ 
+1.02
+ 
+ 
+ 
+ 
+6.25
+ 
+0.02
+ 
+ 
+ 
+–
+0.02
+ 
+46.76
+28.95
+13.06
+ 
+ 
+ 
+ 
+0.06; Relatives of 
+KMP^: 0.05
+ 
+ 
+ 
+ 
+0.32
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+0.07; Employee Trusts: 1 118.04
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+5.76
+ 
+ 
+ 
+49.15; Total: 2164.70
+574.99
+0.44
+1.88
+2.20 
+0.88
+5.66
+7.06
+9.71
+118.04
+18.56
+4453.28
+29.40
+0.27
+ – 
+1813.30
+1786.29
+–
+0.02
+ 
+46.76
+28.95
+13.06
+ 
+ 
+121.90
+5.76
+0.13
+719.42
+0.61
+76.10
+
+Table 92: | Key audit matters
+How our audit addressed the key audit matter: Revenue recognition | Key audit matters
+How our audit addressed the key audit matter: Revenue from the sale of goods (hereinafter referred to 
+as “Revenue”) is recognised when the Group performs 
+its  obligation 
+to 
+its  customers  and 
+the  amount  of 
+revenue can be measured reliably and recovery of the 
+consideration  is  probable.  The  timing  of  such  revenue 
+recognition in case of sale of goods is when the control 
+over the same is transferred to the customer, which is 
+mainly upon delivery.
+
+Table 93: | Key audit matters: The  timing  of  revenue  recognition  is  relevant  to  the 
+reported performance of the Group. The management 
+considers revenue as a key measure for evaluation of 
+performance. There is a risk of revenue being recorded 
+before control is transferred.
+Refer  Note  1 
+to 
+the  Consolidated 
+Ind  AS  Financial 
+Statements 
+-  Significant  Accounting  Policies 
+and  
+Note 22A / 22B.; How our audit addressed the key audit matter: Evaluated the design, implementation and operating 
+effectiveness of Group’s controls in respect of revenue 
+recognition.
+   Tested 
+the  effectiveness  of 
+such 
+controls  over 
+revenue cut off at year-end.
+   On a sample basis, tested supporting documentation 
+for sales transactions recorded during the year which 
+included  sales 
+invoices,  customer  contracts  and 
+shipping documents.
+   Performed  an  increased  level  of  substantive  testing 
+in  respect  of  sales  transactions  recorded  during  the 
+period closer to the year end and subsequent to the 
+year end.
+   Compared  revenue  with  historical  trends  and  where 
+appropriate, conducted further enquiries and testing.
+   Assessed  disclosures 
+in 
+financial 
+statements 
+in 
+respect of revenue, as specified in Ind AS 115. | Key audit matters: Impairment  assessment  of  Capital  Work 
+in  Progress  (Hotel)  and  valuation  of 
+Inventories  (Residential 
+Apartments) of WelcomHotels Lanka (Private) Limited (‘WLPL’), a wholly owned subsidiary | Key audit matters: WLPL  is  developing  a  mixed-use  project  in  Colombo, 
+Sri  Lanka  which 
+includes  a  hotel  and  a  residential 
+apartment  complex.  At  March  31,  2023,  the  carrying 
+value  of  Capital  Work 
+in  Progress 
+(‘CWIP’)  and 
+inventories 
+(excluding 
+leasehold 
+land 
+value 
+of  
+207.08 
+crores) 
+is 
+1,018.03 
+crores 
+and  
+` 
+` 
+` 693.63 crores respectively. In view of the deterioration 
+in 
+the  macro 
+-  economic  scenario 
+in  Sri  Lanka,  
+the  management  of  WLPL  has  performed  impairment 
+assessment 
+for 
+its  capital  work 
+in  progress  of 
+the  
+Hotel  (PPE)  and  net  realisable  value  assessment  for  
+the inventory of the residential apartments. 
+The  processes  and  methodologies  for  assessing  and 
+determining  the  recoverable  value  of  the  project  are  
+based  on  assumptions,  that  by  their  nature  imply  the  
+use of the management’s judgement, in particular with  
+reference to forecast of future cash flows, selling price,  
+balance  cost 
+to  complete 
+the  project,  selling  costs,  
+terminal  value, 
+long-term  growth  rates  and  discount  
+rates applied to such forecasted cash flows. Considering 
+the  judgement  required  for  estimating  the  cash  flows  
+and the assumptions used, this is considered as a key 
+audit matter.
+Refer  Note  1 
+-  Significant  Accounting  Policies  and  
+Note  2  -  Use  of  estimates  and 
+judgements 
+to 
+the 
+Consolidated Ind AS Financial Statements.; How our audit addressed the key audit matter: Our audit procedures included the following:
+   Obtained understanding of the Company’s policy on 
+assessment of impairment of PPE and determination 
+of net realisable value for inventory and assumptions 
+used  by 
+the  management 
+including  design  and 
+implementation of controls. 
+   Obtained and read the projections / estimated selling 
+price / future cashflows along with sensitivity analysis 
+thereof. 
+   Discussed  and  obtained  assessment  of  recoverable 
+value of PPE and inventory from component auditor.
+   Evaluated management’s methodology, assumptions 
+and estimates used in the calculations.
+   Involved 
+valuation 
+specialist 
+to 
+review 
+the 
+appropriateness of methodology and key assumptions 
+considered by management to determine discounted 
+future cash flows.
+   Performed  sensitivity  analysis  around 
+impact  on 
+future cash flows due to changes in key assumptions 
+considered by management.
+   Verified the arithmetical accuracy of the future cash flow 
+model including comparison with approved budgets.
+   Assessed the recoverability of PPE with regard to the 
+value in use and net realisable value of inventory.
+
+Table 94: | Year ended 31st March
+FY14$
+FY15$
+FY16
+FY17
+FY18
+FY19
+FY20
+FY21
+FY22
+FY23: 53889
+57799
+60196
+64174
+67082
+75309
+76097
+74979
+90104
+106625
+Gross Sales Value (net of rebates & discounts) # | Year ended 31st March
+FY14$
+FY15$
+FY16
+FY17
+FY18
+FY19
+FY20
+FY21
+FY22
+FY23: Gross Revenue from sale of products & 
+services #
+46713
+49965
+51582
+55002
+43957
+45221
+46324
+48151
+59101
+69481 | Year ended 31st March
+FY14$
+FY15$
+FY16
+FY17
+FY18
+FY19
+FY20
+FY21
+FY22
+FY23: Total Income #
+48176
+51932
+53714
+57434
+46460
+48269
+49821
+51776
+62336
+72689 | Year ended 31st March
+FY14$
+FY15$
+FY16
+FY17
+FY18
+FY19
+FY20
+FY21
+FY22
+FY23: 12455
+13474
+13715
+14578
+15541
+17306
+17904
+15523
+18934
+23944
+EBITDA | Year ended 31st March
+FY14$
+FY15$
+FY16
+FY17
+FY18
+FY19
+FY20
+FY21
+FY22
+FY23: 12659
+13998
+14434
+15503
+16439
+18444
+19299
+17164
+19830
+24677
+PBT | Year ended 31st March
+FY14$
+FY15$
+FY16
+FY17
+FY18
+FY19
+FY20
+FY21
+FY22
+FY23: Exceptional items
+ 413 
+ (132)
+73 | Year ended 31st March
+FY14$
+FY15$
+FY16
+FY17
+FY18
+FY19
+FY20
+FY21
+FY22
+FY23: 12659
+13998
+14434
+15503
+16852
+18444
+19167
+17164
+19830
+24750
+PBT after Exceptional Items | Year ended 31st March
+FY14$
+FY15$
+FY16
+FY17
+FY18
+FY19
+FY20
+FY21
+FY22
+FY23: Tax
+3874
+4390
+5106
+5302
+5628
+5980
+4031
+4133
+4772
+5997 | Year ended 31st March
+FY14$
+FY15$
+FY16
+FY17
+FY18
+FY19
+FY20
+FY21
+FY22
+FY23: 8785
+9608
+9328
+10201
+11223
+12464
+15136
+13032
+15058
+18753
+PAT | Year ended 31st March
+FY14$
+FY15$
+FY16
+FY17
+FY18
+FY19
+FY20
+FY21
+FY22
+FY23: 5583
+6030
+8233
+6945
+7577
+8498
+12477
+13230
+14172
+19255
+Interim + Proposed Dividends * | Year ended 31st March
+FY14$
+FY15$
+FY16
+FY17
+FY18
+FY19
+FY20
+FY21
+FY22
+FY23: - Ordinary Dividend 
+5583
+6030
+6296
+6945
+7577
+8498
+12477
+13230
+14172
+15837 | Year ended 31st March
+FY14$
+FY15$
+FY16
+FY17
+FY18
+FY19
+FY20
+FY21
+FY22
+FY23: - Special Dividend 
+1937
+3418 | Year ended 31st March
+FY14$
+FY15$
+FY16
+FY17
+FY18
+FY19
+FY20
+FY21
+FY22
+FY23: Earnings Per Share | Year ended 31st March
+FY14$
+FY15$
+FY16
+FY17
+FY18
+FY19
+FY20
+FY21
+FY22
+FY23: 11.09
+12.05
+11.61
+8.43
+9.22
+10.19
+12.33
+10.59
+12.22
+15.15
+Actual (`) | Year ended 31st March
+FY14$
+FY15$
+FY16
+FY17
+FY18
+FY19
+FY20
+FY21
+FY22
+FY23: 7.39
+8.03
+7.74
+8.43
+9.22
+10.19
+12.33
+10.59
+12.22
+15.15
+Adjusted (`) @ | Year ended 31st March
+FY14$
+FY15$
+FY16
+FY17
+FY18
+FY19
+FY20
+FY21
+FY22
+FY23: Dividend Per Share | Year ended 31st March
+FY14$
+FY15$
+FY16
+FY17
+FY18
+FY19
+FY20
+FY21
+FY22
+FY23: 6.00
+6.25
+6.50
+4.75
+5.15
+5.75
+10.15
+10.75
+11.50
+12.75
+Actual - Ordinary (`) | Year ended 31st March
+FY14$
+FY15$
+FY16
+FY17
+FY18
+FY19
+FY20
+FY21
+FY22
+FY23: 2.00
+2.75
+Actual - Special (`) | Year ended 31st March
+FY14$
+FY15$
+FY16
+FY17
+FY18
+FY19
+FY20
+FY21
+FY22
+FY23: 4.00
+4.17
+4.33
+4.75
+5.15
+5.75
+10.15
+10.75
+11.50
+12.75
+Adjusted - Ordinary (`) @ | Year ended 31st March
+FY14$
+FY15$
+FY16
+FY17
+FY18
+FY19
+FY20
+FY21
+FY22
+FY23: 1.33
+2.75
+Adjusted - Special (`) @
+
+Table 95: | As at 31st March
+FY14$
+FY15$
+FY16
+FY17
+FY18
+FY19
+FY20
+FY21
+FY22
+FY23: Equity | As at 31st March
+FY14$
+FY15$
+FY16
+FY17
+FY18
+FY19
+FY20
+FY21
+FY22
+FY23: Share capital
+795
+802
+805
+1215
+1220
+1226
+1229
+1231
+1232
+1243 | As at 31st March
+FY14$
+FY15$
+FY16
+FY17
+FY18
+FY19
+FY20
+FY21
+FY22
+FY23: Other equity
+25467
+29934
+40851
+44126
+50180
+56724
+62800
+57774
+60168
+66351 | As at 31st March
+FY14$
+FY15$
+FY16
+FY17
+FY18
+FY19
+FY20
+FY21
+FY22
+FY23: Shareholders’ funds (Net Worth)
+26262
+30736
+41656
+45341
+51400
+57950
+64029
+59005
+61400
+67594 | As at 31st March
+FY14$
+FY15$
+FY16
+FY17
+FY18
+FY19
+FY20
+FY21
+FY22
+FY23: Non-current liabilities | As at 31st March
+FY14$
+FY15$
+FY16
+FY17
+FY18
+FY19
+FY20
+FY21
+FY22
+FY23: Borrowings
+51
+39
+26
+18
+11
+8
+6
+5
+5
+3 | As at 31st March
+FY14$
+FY15$
+FY16
+FY17
+FY18
+FY19
+FY20
+FY21
+FY22
+FY23: Deferred tax liabilities (Net)
+1297
+1632
+1867
+1872
+1918
+2044
+1618
+1728
+1667
+1621 | As at 31st March
+FY14$
+FY15$
+FY16
+FY17
+FY18
+FY19
+FY20
+FY21
+FY22
+FY23: Non-current liabilities (others) ^
+115
+108
+127
+155
+195
+174
+493
+669
+543
+628 | As at 31st March
+FY14$
+FY15$
+FY16
+FY17
+FY18
+FY19
+FY20
+FY21
+FY22
+FY23: Current liabilities | As at 31st March
+FY14$
+FY15$
+FY16
+FY17
+FY18
+FY19
+FY20
+FY21
+FY22
+FY23: Borrowings @@
+15
+14
+16
+8
+7
+3
+2
+1
+1
+… | As at 31st March
+FY14$
+FY15$
+FY16
+FY17
+FY18
+FY19
+FY20
+FY21
+FY22
+FY23: Proposed dividend (including tax)
+5583
+6030 | As at 31st March
+FY14$
+FY15$
+FY16
+FY17
+FY18
+FY19
+FY20
+FY21
+FY22
+FY23: Current liabilities (others) ^
+5906
+5637
+6339
+6822
+8850
+9619
+9087
+10173
+11477
+12415 | As at 31st March
+FY14$
+FY15$
+FY16
+FY17
+FY18
+FY19
+FY20
+FY21
+FY22
+FY23: Total Equity and Liabilities
+39229
+44196
+50031
+54216
+62381
+69798
+75235
+71580
+75093
+82262 | As at 31st March
+FY14$
+FY15$
+FY16
+FY17
+FY18
+FY19
+FY20
+FY21
+FY22
+FY23: Non-current assets | As at 31st March
+FY14$
+FY15$
+FY16
+FY17
+FY18
+FY19
+FY20
+FY21
+FY22
+FY23: Property, plant and equipment, intangible 
+assets (including capital work-in-progress, 
+intangible assets under development), 
+investment property and right of use assets ^
+14309
+16293
+16430
+18417
+20592
+21888
+23298
+25521
+25688
+25871 | As at 31st March
+FY14$
+FY15$
+FY16
+FY17
+FY18
+FY19
+FY20
+FY21
+FY22
+FY23: Non-current investments 
+2512
+2442
+6853
+8486
+13494
+14071
+13456
+12937
+15657
+16364 | As at 31st March
+FY14$
+FY15$
+FY16
+FY17
+FY18
+FY19
+FY20
+FY21
+FY22
+FY23: Non-current assets (others)
+1480
+1506
+3515
+2776
+3792
+4269
+1974
+1306
+2806
+4824 | As at 31st March
+FY14$
+FY15$
+FY16
+FY17
+FY18
+FY19
+FY20
+FY21
+FY22
+FY23: Current assets | As at 31st March
+FY14$
+FY15$
+FY16
+FY17
+FY18
+FY19
+FY20
+FY21
+FY22
+FY23: Current investments
+6311
+5964
+6471
+10100
+9903
+12507
+17175
+14047
+11625
+16357 | As at 31st March
+FY14$
+FY15$
+FY16
+FY17
+FY18
+FY19
+FY20
+FY21
+FY22
+FY23: Cash and cash equivalents and Other bank 
+balances
+3289
+7589
+5639
+2747
+2595
+3769
+6843
+4002
+3878
+3831 | As at 31st March
+FY14$
+FY15$
+FY16
+FY17
+FY18
+FY19
+FY20
+FY21
+FY22
+FY23: Current assets (others)
+11328
+10402
+11123
+11690
+12005
+13294
+12489
+13767
+15439
+15015 | As at 31st March
+FY14$
+FY15$
+FY16
+FY17
+FY18
+FY19
+FY20
+FY21
+FY22
+FY23: Total Assets
+39229
+44196
+50031
+54216
+62381
+69798
+75235
+71580
+75093
+82262 | As at 31st March
+FY14$
+FY15$
+FY16
+FY17
+FY18
+FY19
+FY20
+FY21
+FY22
+FY23: 22.01
+25.56
+34.51
+37.33
+42.12
+47.27
+52.09
+47.94
+49.82
+54.39
+Net Worth Per Share (`) *
+
+Table 96:
+
+Table 97:
+
+Table 98:
+
+Table 99:
+
+Table 100:
+
+Table 101:
+
+Table 102: | Glossary: Section A; II: III | Glossary: Section B; II: XII | Glossary: Section C; II: XV | Glossary: Principle 1; II: XV | Glossary: Principle 2; II: XVII | Glossary: Principle 3; II: XXI | Glossary: Principle 4; II: XXVII | Glossary: Principle 5; II: XXX | Glossary: Principle 6; II: XXXIV | Glossary: Principle 7; II: XLI | Glossary: Principle 8; II: XLIII | Glossary: Principle 9; II: XLVII
+
+Table 103: | ITC Divisions
+ABD: Agri Business Division
+ESPB: Education & Stationery Products Business
+FBD: Foods Business Division
+HD: Hotels Division
+ITD: India Tobacco Division
+MAB: Safety Matches & Agarbattis
+PCPBD: Personal Care Products Business Division
+PPB: Packaging & Printing Business
+PSPD: Paperboards & Specialty Papers Division
+TM&D: Trade Marketing & Distribution: ITC Specific Terms
+CAPP: Core Area Perspective Plan
+CMC: Corporate Management Committee
+FTC: Fixed Term Contract
+FTR: Fixed Term Retainer
+ISC: Investor Service Centre  
+ITCMAARS: ITC Meta Market for Advanced Agriculture and Rural Services
+LSTC: Life Sciences & Technology Centre
+MSK: Mission Sunehra Kal
+SBU: Strategic Business Unit
+SCRC: Sustainability Compliance Review Committee 
+SIP: Social Investments Programme
+SPP: Service Provider Personnel
+TPMs: Third-Party Manufacturers
+WOW: Well Being Out of Waste | ITC Divisions
+ABD: Agri Business Division
+ESPB: Education & Stationery Products Business
+FBD: Foods Business Division
+HD: Hotels Division
+ITD: India Tobacco Division
+MAB: Safety Matches & Agarbattis
+PCPBD: Personal Care Products Business Division
+PPB: Packaging & Printing Business
+PSPD: Paperboards & Specialty Papers Division
+TM&D: Trade Marketing & Distribution: General Terms
+ABC: Agri-Business Centre
+ATNI: Access to Nutrition Initiative
+ASCI: Advertising Standards Council of India
+AWS: Alliance for Water Stewardship
+CSR: Corporate Social Responsibility
+ECF: Elemental Chlorine Free
+EHS: Environment, Health and Safety
+ESG: Environment, Social and Governance
+FPO: Farmers’ Producer Organisation
+FSC®: Forest Stewardship Council®
+FSSAI:The Food Safety and Standards Authority of India
+GAP: Good Agricultural Practices
+GP: Gram Panchayat
+HACCP: Hazard Analysis and Critical Control Points
+LCA: Life-Cycle Assessment
+LEED: Leadership in Energy and Environmental Design
+MCH: Mother and Child Health
+MMU: Mobile Medical Unit
+MPSRLM: Madhya Pradesh State Rural Livelihood Mission
+MoU: Memorandum of Understanding
+NA: Not Applicable
+NGRBC: National Guidelines on Responsible Business Conduct
+NOP: National Organic Programme
+NPOP: National Programme for Organic Production
+PPP: Public-Private Partnership
+RFA: Rainforest Alliance
+SEBI: Securities and Exchange Board of India 
+SEDEX: Supplier Ethical Data Exchange
+SC: Scheduled Caste
+ST: Scheduled Tribe
+SHG: Self Help Group
+SOP: Standard Operating Procedure
+STP: Sustainable Tobacco Programme
+UoM: Unit of Measurement
+
+Table 104: | 1.: 2.; Corporate Identity Number 
+(CIN) of the Company: Name of the Company; L16005WB1910PLC001985: ITC Limited | 1.: 3.; Corporate Identity Number 
+(CIN) of the Company: Year of Incorporation; L16005WB1910PLC001985: 1910 | 1.: 4.; Corporate Identity Number 
+(CIN) of the Company: Registered Office Address; L16005WB1910PLC001985: Virginia House, 37 Jawaharlal Nehru Road, Kolkata 700 071 | 1.: 5.; Corporate Identity Number 
+(CIN) of the Company: Corporate Office Address | 1.: 6.; Corporate Identity Number 
+(CIN) of the Company: E-mail Id; L16005WB1910PLC001985: enduringvalue@itc.in | 1.: 7.; Corporate Identity Number 
+(CIN) of the Company: Telephone; L16005WB1910PLC001985: +91 33 2288 9371 | 1.: 8. Website; L16005WB1910PLC001985: www.itcportal.com | 1.: 9.; Corporate Identity Number 
+(CIN) of the Company: Financial Year for which 
+Reporting is Being Done; L16005WB1910PLC001985: 2022-23 | 1.: 10.; Corporate Identity Number 
+(CIN) of the Company: Name of the 
+Stock Exchange(s) where 
+Shares are Listed; L16005WB1910PLC001985: National Stock Exchange of India Limited (‘NSE’), BSE Limited (‘BSE’), and 
+The Calcutta Stock Exchange Limited (‘CSE’) | 1.: 11.; Corporate Identity Number 
+(CIN) of the Company: Paid-up Capital; L16005WB1910PLC001985: `1,242.80 crores (As on 31.03.2023) | 1.: 12.; Corporate Identity Number 
+(CIN) of the Company: Name and Contact Details of 
+the Person who may be 
+Contacted in Case of any 
+queries on the BRSR Report; L16005WB1910PLC001985: Ms. Madhulika Sharma
+Chief Sustainability Officer
+Madhulika.sharma@itc.in
++91 33 2288 9371 | 1.: 13.; Corporate Identity Number 
+(CIN) of the Company: Reporting Boundary; L16005WB1910PLC001985: The financial disclosures made in this report are on a standalone basis, and 
+are excerpted from the Company’s Report and Accounts 2023. The data related 
+to social performance is on a standalone basis. 
+The environmental disclosures are based on performance of Company’s 
+Businesses, certain subsidiaries and associates, and key Third-Party 
+Manufacturers (TPMs). The details are available in ‘About this Report’ section 
+of ITC Sustainability & Integrated Report 2023.
+
+Table 105: | S. 
+No.: 1.; Description of 
+Main Activity: FMCG; Description of Business Activity: Cigarettes: Cigarettes, Cigars etc.; % of Turnover 
+of the Entity: 40.60% | Description of Business Activity: Others: Branded Packaged Foods Businesses (Staples & Meals; 
+Snacks; Dairy & Beverages; Biscuits & Cakes; Chocolates, Coffee & 
+Confectionery); Education and Stationery Products; Personal Care 
+Products; Safety Matches and Agarbattis.; % of Turnover 
+of the Entity: 27.46% | S. 
+No.: 2.; Description of 
+Main Activity: Hotels; Description of Business Activity: Hoteliering.; % of Turnover 
+of the Entity: 3.70% | S. 
+No.: 3.; Description of 
+Main Activity: Agri Business; Description of Business Activity: Agri-commodities such as wheat, rice, spices, coffee, soya and leaf 
+tobacco.; % of Turnover 
+of the Entity: 17.72% | S. 
+No.: 4.; Description of 
+Main Activity: Paperboards,
+Paper & Packaging; Description of Business Activity: Paperboards, Paper including Specialty Paper and Packaging including 
+flexibles.; % of Turnover 
+of the Entity: 10.51%
+
+Table 106: | S. 
+No.: 1; Product/Service: Cigarettes: Cigarettes, Cigars etc.; NIC Code: 12003, 21002, 46307; % of Total Turnover 
+Contributed: 40.60% | S. 
+No.: 2; Product/Service: Others: Branded Packaged Foods
+Businesses (Staples & Meals; Snacks;
+Dairy & Beverages; Biscuits & Cakes;
+Chocolates, Coffee & Confectionery);
+Education and Stationery Products;
+Personal Care Products; Safety
+Matches and Agarbattis.; NIC Code: 10202, 10304, 10308, 10402,
+10501, 10504, 10509, 10611, 
+10712, 10732, 10733, 10740, 
+10750, 10792, 10795, 10796, 
+10798, 20231, 20233, 20234, 
+20236, 20237, 20239, 20293, 
+46411, 46491, 46496, 46497, 46909; % of Total Turnover 
+Contributed: 27.46% | S. 
+No.: 3; Product/Service: Hoteliering; NIC Code: 55101, 56101, 56301, 74909,
+47110, 47190, 68200, 77400,
+79900, 96010, 96020, 96905; % of Total Turnover 
+Contributed: 3.70% | S. 
+No.: 4; Product/Service: Agri-commodities such as wheat, rice, 
+spices, coffee, soya and leaf tobacco.; NIC Code: 12001, 10209, 10304, 10406, 10611,
+10795, 20213, 46201, 46207, 46301, 
+46305, 46306, 47300, 47737; % of Total Turnover 
+Contributed: 17.72% | S. 
+No.: 5; Product/Service: Paperboards, Paper including Specialty 
+Paper and Packaging including flexibles.; NIC Code: 17015, 17016, 17093, 
+17022, 17029, 22203; % of Total Turnover 
+Contributed: 10.51%
+
+Table 107: | Location: National (No. of States); Number: 28 States and 7 Union Territories | Location: International (No. of Countries); Number: 110 Countries
+
+Table 108: | Male
+Female
+S. 
+Particulars
+Total (A)
+No.
+No. (B)
+% (B/A)
+No. (C)
+% (C/A): EMPLOYEES | Male
+Female
+S. 
+Particulars
+Total (A)
+No.
+No. (B)
+% (B/A)
+No. (C)
+% (C/A): 1
+Permanent (D)
+23,725
+21,337
+90%
+2,388
+10% | Male
+Female
+S. 
+Particulars
+Total (A)
+No.
+No. (B)
+% (B/A)
+No. (C)
+% (C/A): 2
+Other than Permanent (E)
+26,099
+22,157
+85%
+3,942
+15% | Male
+Female
+S. 
+Particulars
+Total (A)
+No.
+No. (B)
+% (B/A)
+No. (C)
+% (C/A): 3
+Total Employees (D + E)
+49,824
+43,494
+87%
+6,330
+13% | Male
+Female
+S. 
+Particulars
+Total (A)
+No.
+No. (B)
+% (B/A)
+No. (C)
+% (C/A): WORKERS | Male
+Female
+S. 
+Particulars
+Total (A)
+No.
+No. (B)
+% (B/A)
+No. (C)
+% (C/A): 4
+Permanent (F)
+12,602
+11,948
+95%
+654
+5% | Male
+Female
+S. 
+Particulars
+Total (A)
+No.
+No. (B)
+% (B/A)
+No. (C)
+% (C/A): 5 
+Other than Permanent (G)
+25,987
+22,061
+85%
+3,926
+15% | Male
+Female
+S. 
+Particulars
+Total (A)
+No.
+No. (B)
+% (B/A)
+No. (C)
+% (C/A): 6
+Total Workers (F + G)
+38,589
+34,009
+88%
+4,580
+12%
+
+Table 109: | S. 
+Particulars
+Total
+Male
+Female
+No.
+(A): No. (B)
+% (B/A)
+No. (C)
+% (C/A) | S. 
+Particulars
+Total
+Male
+Female
+No.
+(A): DIFFERENTLY ABLED EMPLOYEES | S. 
+Particulars
+Total
+Male
+Female
+No.
+(A): 1
+Permanent (D)
+38
+31
+82%
+7
+18% | S. 
+Particulars
+Total
+Male
+Female
+No.
+(A): 2
+Other than Permanent (E)
+256
+189
+74%
+67
+26% | S. 
+Particulars
+Total
+Male
+Female
+No.
+(A): 3
+Total Employees (D + E)
+294
+220
+75%
+74
+25% | S. 
+Particulars
+Total
+Male
+Female
+No.
+(A): DIFFERENTLY ABLED WORKERS | S. 
+Particulars
+Total
+Male
+Female
+No.
+(A): 4
+Permanent (F)
+34
+27
+79%
+6
+18% | S. 
+Particulars
+Total
+Male
+Female
+No.
+(A): 5
+Other than Permanent (G)
+98
+88
+90%
+10
+10% | S. 
+Particulars
+Total
+Male
+Female
+No.
+(A): 6
+Total Workers (F + G)
+132
+115
+87%
+16
+12%
+
+Table 110: | No. and Percentage of Females: No. (B)
+% (B/A) | Total (A): 16; No. and Percentage of Females: 2
+12.50% | Total (A): 5; No. and Percentage of Females: 0
+0
+
+Table 111: | FY  2022-23: Male
+Female*
+Total; FY 2021-22: Male
+Female
+Total; FY 2020-21: Male
+Female
+Total | FY  2022-23: 11%
+18%
+12%; FY 2021-22: 9%
+18%
+10%; FY 2020-21: 7%
+15%
+8% | FY  2022-23: 7%
+21%
+7%; FY 2021-22: 6%
+25%
+7%; FY 2020-21: 6%
+22%
+7%
+
+Table 112: | S.
+No.: 1.; Name of the Holding/Subsidiary/
+Associate Companies/
+Joint Ventures (A): ITC Infotech India Limited; Indicate Whether 
+Holding/Subsidiary/ 
+Associate/
+Joint Venture: Subsidiary; % of Shares 
+Held by 
+Listed Entity*: 100.00; Does the Entity Indicated at 
+Column A, Participate in the Business 
+Responsibility Initiatives of the Listed 
+Entity? (Yes/No)**: Yes | S.
+No.: 2.; Name of the Holding/Subsidiary/
+Associate Companies/
+Joint Ventures (A): ITC Infotech Limited; Indicate Whether 
+Holding/Subsidiary/ 
+Associate/
+Joint Venture: Subsidiary; % of Shares 
+Held by 
+Listed Entity*: 100.00; Does the Entity Indicated at 
+Column A, Participate in the Business 
+Responsibility Initiatives of the Listed 
+Entity? (Yes/No)**: No | S.
+No.: 3.; Name of the Holding/Subsidiary/
+Associate Companies/
+Joint Ventures (A): ITC Infotech (USA), Inc.; Indicate Whether 
+Holding/Subsidiary/ 
+Associate/
+Joint Venture: Subsidiary; % of Shares 
+Held by 
+Listed Entity*: 100.00; Does the Entity Indicated at 
+Column A, Participate in the Business 
+Responsibility Initiatives of the Listed 
+Entity? (Yes/No)**: No | S.
+No.: 4.; Name of the Holding/Subsidiary/
+Associate Companies/
+Joint Ventures (A): Indivate Inc.; Indicate Whether 
+Holding/Subsidiary/ 
+Associate/
+Joint Venture: Subsidiary; % of Shares 
+Held by 
+Listed Entity*: 100.00; Does the Entity Indicated at 
+Column A, Participate in the Business 
+Responsibility Initiatives of the Listed 
+Entity? (Yes/No)**: No | S.
+No.: 5.; Name of the Holding/Subsidiary/
+Associate Companies/
+Joint Ventures (A): ITC Infotech Do Brasil LTDA.; Indicate Whether 
+Holding/Subsidiary/ 
+Associate/
+Joint Venture: Subsidiary; % of Shares 
+Held by 
+Listed Entity*: 100.00; Does the Entity Indicated at 
+Column A, Participate in the Business 
+Responsibility Initiatives of the Listed 
+Entity? (Yes/No)**: No | S.
+No.: 6.; Name of the Holding/Subsidiary/
+Associate Companies/
+Joint Ventures (A): ITC Infotech Malaysia SDN. BHD.; Indicate Whether 
+Holding/Subsidiary/ 
+Associate/
+Joint Venture: Subsidiary; % of Shares 
+Held by 
+Listed Entity*: 100.00; Does the Entity Indicated at 
+Column A, Participate in the Business 
+Responsibility Initiatives of the Listed 
+Entity? (Yes/No)**: No | S.
+No.: 7.; Name of the Holding/Subsidiary/
+Associate Companies/
+Joint Ventures (A): ITC Infotech France SAS; Indicate Whether 
+Holding/Subsidiary/ 
+Associate/
+Joint Venture: Subsidiary; % of Shares 
+Held by 
+Listed Entity*: 100.00; Does the Entity Indicated at 
+Column A, Participate in the Business 
+Responsibility Initiatives of the Listed 
+Entity? (Yes/No)**: No | S.
+No.: 8.; Name of the Holding/Subsidiary/
+Associate Companies/
+Joint Ventures (A): ITC Infotech GmbH; Indicate Whether 
+Holding/Subsidiary/ 
+Associate/
+Joint Venture: Subsidiary; % of Shares 
+Held by 
+Listed Entity*: 100.00; Does the Entity Indicated at 
+Column A, Participate in the Business 
+Responsibility Initiatives of the Listed 
+Entity? (Yes/No)**: No | S.
+No.: 9.; Name of the Holding/Subsidiary/
+Associate Companies/
+Joint Ventures (A): Surya Nepal Private Limited; Indicate Whether 
+Holding/Subsidiary/ 
+Associate/
+Joint Venture: Subsidiary; % of Shares 
+Held by 
+Listed Entity*: 59.00; Does the Entity Indicated at 
+Column A, Participate in the Business 
+Responsibility Initiatives of the Listed 
+Entity? (Yes/No)**: Yes | S.
+No.: 10.; Name of the Holding/Subsidiary/
+Associate Companies/
+Joint Ventures (A): Technico Agri Sciences Limited; Indicate Whether 
+Holding/Subsidiary/ 
+Associate/
+Joint Venture: Subsidiary; % of Shares 
+Held by 
+Listed Entity*: 100.00; Does the Entity Indicated at 
+Column A, Participate in the Business 
+Responsibility Initiatives of the Listed 
+Entity? (Yes/No)**: Yes | S.
+No.: 11.; Name of the Holding/Subsidiary/
+Associate Companies/
+Joint Ventures (A): Technico Pty Limited; Indicate Whether 
+Holding/Subsidiary/ 
+Associate/
+Joint Venture: Subsidiary; % of Shares 
+Held by 
+Listed Entity*: 100.00; Does the Entity Indicated at 
+Column A, Participate in the Business 
+Responsibility Initiatives of the Listed 
+Entity? (Yes/No)**: No | S.
+No.: 12.; Name of the Holding/Subsidiary/
+Associate Companies/
+Joint Ventures (A): Technico Technologies Inc.; Indicate Whether 
+Holding/Subsidiary/ 
+Associate/
+Joint Venture: Subsidiary; % of Shares 
+Held by 
+Listed Entity*: 100.00; Does the Entity Indicated at 
+Column A, Participate in the Business 
+Responsibility Initiatives of the Listed 
+Entity? (Yes/No)**: No | S.
+No.: 13.; Name of the Holding/Subsidiary/
+Associate Companies/
+Joint Ventures (A): Technico Asia Holdings Pty Limited; Indicate Whether 
+Holding/Subsidiary/ 
+Associate/
+Joint Venture: Subsidiary; % of Shares 
+Held by 
+Listed Entity*: 100.00; Does the Entity Indicated at 
+Column A, Participate in the Business 
+Responsibility Initiatives of the Listed 
+Entity? (Yes/No)**: No | S.
+No.: 14.; Name of the Holding/Subsidiary/
+Associate Companies/
+Joint Ventures (A): Technico Horticultural (Kunming) Co. Limited; Indicate Whether 
+Holding/Subsidiary/ 
+Associate/
+Joint Venture: Subsidiary; % of Shares 
+Held by 
+Listed Entity*: 100.00; Does the Entity Indicated at 
+Column A, Participate in the Business 
+Responsibility Initiatives of the Listed 
+Entity? (Yes/No)**: No | S.
+No.: 15.; Name of the Holding/Subsidiary/
+Associate Companies/
+Joint Ventures (A): Srinivasa Resorts Limited; Indicate Whether 
+Holding/Subsidiary/ 
+Associate/
+Joint Venture: Subsidiary; % of Shares 
+Held by 
+Listed Entity*: 68.00; Does the Entity Indicated at 
+Column A, Participate in the Business 
+Responsibility Initiatives of the Listed 
+Entity? (Yes/No)**: Yes | S.
+No.: 16.; Name of the Holding/Subsidiary/
+Associate Companies/
+Joint Ventures (A): Fortune Park Hotels Limited; Indicate Whether 
+Holding/Subsidiary/ 
+Associate/
+Joint Venture: Subsidiary; % of Shares 
+Held by 
+Listed Entity*: 100.00; Does the Entity Indicated at 
+Column A, Participate in the Business 
+Responsibility Initiatives of the Listed 
+Entity? (Yes/No)**: No | S.
+No.: 17.; Name of the Holding/Subsidiary/
+Associate Companies/
+Joint Ventures (A): Landbase India Limited; Indicate Whether 
+Holding/Subsidiary/ 
+Associate/
+Joint Venture: Subsidiary; % of Shares 
+Held by 
+Listed Entity*: 100.00; Does the Entity Indicated at 
+Column A, Participate in the Business 
+Responsibility Initiatives of the Listed 
+Entity? (Yes/No)**: Yes | S.
+No.: 18.; Name of the Holding/Subsidiary/
+Associate Companies/
+Joint Ventures (A): Bay Islands Hotels Limited; Indicate Whether 
+Holding/Subsidiary/ 
+Associate/
+Joint Venture: Subsidiary; % of Shares 
+Held by 
+Listed Entity*: 100.00; Does the Entity Indicated at 
+Column A, Participate in the Business 
+Responsibility Initiatives of the Listed 
+Entity? (Yes/No)**: Yes | S.
+No.: 19.; Name of the Holding/Subsidiary/
+Associate Companies/
+Joint Ventures (A): WelcomHotels Lanka (Private) Limited; Indicate Whether 
+Holding/Subsidiary/ 
+Associate/
+Joint Venture: Subsidiary; % of Shares 
+Held by 
+Listed Entity*: 100.00; Does the Entity Indicated at 
+Column A, Participate in the Business 
+Responsibility Initiatives of the Listed 
+Entity? (Yes/No)**: No | S.
+No.: 20.; Name of the Holding/Subsidiary/
+Associate Companies/
+Joint Ventures (A): Russell Credit Limited; Indicate Whether 
+Holding/Subsidiary/ 
+Associate/
+Joint Venture: Subsidiary; % of Shares 
+Held by 
+Listed Entity*: 100.00; Does the Entity Indicated at 
+Column A, Participate in the Business 
+Responsibility Initiatives of the Listed 
+Entity? (Yes/No)**: No | S.
+No.: 21.; Name of the Holding/Subsidiary/
+Associate Companies/
+Joint Ventures (A): Greenacre Holdings Limited; Indicate Whether 
+Holding/Subsidiary/ 
+Associate/
+Joint Venture: Subsidiary; % of Shares 
+Held by 
+Listed Entity*: 100.00; Does the Entity Indicated at 
+Column A, Participate in the Business 
+Responsibility Initiatives of the Listed 
+Entity? (Yes/No)**: No | S.
+No.: 22.; Name of the Holding/Subsidiary/
+Associate Companies/
+Joint Ventures (A): Wimco Limited; Indicate Whether 
+Holding/Subsidiary/ 
+Associate/
+Joint Venture: Subsidiary; % of Shares 
+Held by 
+Listed Entity*: 100.00; Does the Entity Indicated at 
+Column A, Participate in the Business 
+Responsibility Initiatives of the Listed 
+Entity? (Yes/No)**: No | S.
+No.: 23.; Name of the Holding/Subsidiary/
+Associate Companies/
+Joint Ventures (A): Gold Flake Corporation Limited; Indicate Whether 
+Holding/Subsidiary/ 
+Associate/
+Joint Venture: Subsidiary; % of Shares 
+Held by 
+Listed Entity*: 100.00; Does the Entity Indicated at 
+Column A, Participate in the Business 
+Responsibility Initiatives of the Listed 
+Entity? (Yes/No)**: No | S.
+No.: 24.; Name of the Holding/Subsidiary/
+Associate Companies/
+Joint Ventures (A): ITC Integrated Business Services Limited (formerly 
+known as ITC Investments & Holdings Limited); Indicate Whether 
+Holding/Subsidiary/ 
+Associate/
+Joint Venture: Subsidiary; % of Shares 
+Held by 
+Listed Entity*: 100.00; Does the Entity Indicated at 
+Column A, Participate in the Business 
+Responsibility Initiatives of the Listed 
+Entity? (Yes/No)**: No | S.
+No.: 25.; Name of the Holding/Subsidiary/
+Associate Companies/
+Joint Ventures (A): MRR Trading & Investment Company Limited; Indicate Whether 
+Holding/Subsidiary/ 
+Associate/
+Joint Venture: Subsidiary; % of Shares 
+Held by 
+Listed Entity*: 100.00; Does the Entity Indicated at 
+Column A, Participate in the Business 
+Responsibility Initiatives of the Listed 
+Entity? (Yes/No)**: No | S.
+No.: 26.; Name of the Holding/Subsidiary/
+Associate Companies/
+Joint Ventures (A): North East Nutrients Private Limited; Indicate Whether 
+Holding/Subsidiary/ 
+Associate/
+Joint Venture: Subsidiary; % of Shares 
+Held by 
+Listed Entity*: 76.00; Does the Entity Indicated at 
+Column A, Participate in the Business 
+Responsibility Initiatives of the Listed 
+Entity? (Yes/No)**: Yes | S.
+No.: 27.; Name of the Holding/Subsidiary/
+Associate Companies/
+Joint Ventures (A): Prag Agro Farm Limited; Indicate Whether 
+Holding/Subsidiary/ 
+Associate/
+Joint Venture: Subsidiary; % of Shares 
+Held by 
+Listed Entity*: 100.00; Does the Entity Indicated at 
+Column A, Participate in the Business 
+Responsibility Initiatives of the Listed 
+Entity? (Yes/No)**: No | S.
+No.: 28.; Name of the Holding/Subsidiary/
+Associate Companies/
+Joint Ventures (A): Pavan Poplar Limited; Indicate Whether 
+Holding/Subsidiary/ 
+Associate/
+Joint Venture: Subsidiary; % of Shares 
+Held by 
+Listed Entity*: 100.00; Does the Entity Indicated at 
+Column A, Participate in the Business 
+Responsibility Initiatives of the Listed 
+Entity? (Yes/No)**: No | S.
+No.: 29.; Name of the Holding/Subsidiary/
+Associate Companies/
+Joint Ventures (A): ITC IndiVision Limited; Indicate Whether 
+Holding/Subsidiary/ 
+Associate/
+Joint Venture: Subsidiary; % of Shares 
+Held by 
+Listed Entity*: 100.00; Does the Entity Indicated at 
+Column A, Participate in the Business 
+Responsibility Initiatives of the Listed 
+Entity? (Yes/No)**: No | S.
+No.: 30.; Name of the Holding/Subsidiary/
+Associate Companies/
+Joint Ventures (A): ITC Fibre Innovations Limited; Indicate Whether 
+Holding/Subsidiary/ 
+Associate/
+Joint Venture: Subsidiary; % of Shares 
+Held by 
+Listed Entity*: 100.00; Does the Entity Indicated at 
+Column A, Participate in the Business 
+Responsibility Initiatives of the Listed 
+Entity? (Yes/No)**: No | S.
+No.: 31.; Name of the Holding/Subsidiary/
+Associate Companies/
+Joint Ventures (A): Espirit Hotels Private Limited; Indicate Whether 
+Holding/Subsidiary/ 
+Associate/
+Joint Venture: Joint Venture; % of Shares 
+Held by 
+Listed Entity*: 26.00; Does the Entity Indicated at 
+Column A, Participate in the Business 
+Responsibility Initiatives of the Listed 
+Entity? (Yes/No)**: No | S.
+No.: 32.; Name of the Holding/Subsidiary/
+Associate Companies/
+Joint Ventures (A): Logix Developers Private Limited; Indicate Whether 
+Holding/Subsidiary/ 
+Associate/
+Joint Venture: Joint Venture; % of Shares 
+Held by 
+Listed Entity*: 27.90; Does the Entity Indicated at 
+Column A, Participate in the Business 
+Responsibility Initiatives of the Listed 
+Entity? (Yes/No)**: No | S.
+No.: 33.; Name of the Holding/Subsidiary/
+Associate Companies/
+Joint Ventures (A): ITC Essentra Limited; Indicate Whether 
+Holding/Subsidiary/ 
+Associate/
+Joint Venture: Joint Venture; % of Shares 
+Held by 
+Listed Entity*: 50.00; Does the Entity Indicated at 
+Column A, Participate in the Business 
+Responsibility Initiatives of the Listed 
+Entity? (Yes/No)**: No | S.
+No.: 34.; Name of the Holding/Subsidiary/
+Associate Companies/
+Joint Ventures (A): Maharaja Heritage Resorts Limited; Indicate Whether 
+Holding/Subsidiary/ 
+Associate/
+Joint Venture: Joint Venture; % of Shares 
+Held by 
+Listed Entity*: 50.00; Does the Entity Indicated at 
+Column A, Participate in the Business 
+Responsibility Initiatives of the Listed 
+Entity? (Yes/No)**: No | S.
+No.: 35.; Name of the Holding/Subsidiary/
+Associate Companies/
+Joint Ventures (A): Gujarat Hotels Limited; Indicate Whether 
+Holding/Subsidiary/ 
+Associate/
+Joint Venture: Associate; % of Shares 
+Held by 
+Listed Entity*: 45.78; Does the Entity Indicated at 
+Column A, Participate in the Business 
+Responsibility Initiatives of the Listed 
+Entity? (Yes/No)**: Yes | S.
+No.: 36.; Name of the Holding/Subsidiary/
+Associate Companies/
+Joint Ventures (A): International Travel House Limited; Indicate Whether 
+Holding/Subsidiary/ 
+Associate/
+Joint Venture: Associate; % of Shares 
+Held by 
+Listed Entity*: 48.96; Does the Entity Indicated at 
+Column A, Participate in the Business 
+Responsibility Initiatives of the Listed 
+Entity? (Yes/No)**: No | S.
+No.: 37.; Name of the Holding/Subsidiary/
+Associate Companies/
+Joint Ventures (A): Russell Investments Limited; Indicate Whether 
+Holding/Subsidiary/ 
+Associate/
+Joint Venture: Associate; % of Shares 
+Held by 
+Listed Entity*: 25.43; Does the Entity Indicated at 
+Column A, Participate in the Business 
+Responsibility Initiatives of the Listed 
+Entity? (Yes/No)**: No | S.
+No.: 38.; Name of the Holding/Subsidiary/
+Associate Companies/
+Joint Ventures (A): Divya Management Limited; Indicate Whether 
+Holding/Subsidiary/ 
+Associate/
+Joint Venture: Associate; % of Shares 
+Held by 
+Listed Entity*: 33.33; Does the Entity Indicated at 
+Column A, Participate in the Business 
+Responsibility Initiatives of the Listed 
+Entity? (Yes/No)**: No | S.
+No.: 39.; Name of the Holding/Subsidiary/
+Associate Companies/
+Joint Ventures (A): Antrang Finance Limited; Indicate Whether 
+Holding/Subsidiary/ 
+Associate/
+Joint Venture: Associate; % of Shares 
+Held by 
+Listed Entity*: 33.33; Does the Entity Indicated at 
+Column A, Participate in the Business 
+Responsibility Initiatives of the Listed 
+Entity? (Yes/No)**: No | S.
+No.: 40.; Name of the Holding/Subsidiary/
+Associate Companies/
+Joint Ventures (A): ATC Limited; Indicate Whether 
+Holding/Subsidiary/ 
+Associate/
+Joint Venture: Associate; % of Shares 
+Held by 
+Listed Entity*: 47.50; Does the Entity Indicated at 
+Column A, Participate in the Business 
+Responsibility Initiatives of the Listed 
+Entity? (Yes/No)**: Yes | S.
+No.: 41.; Name of the Holding/Subsidiary/
+Associate Companies/
+Joint Ventures (A): Delectable Technologies Private Limited; Indicate Whether 
+Holding/Subsidiary/ 
+Associate/
+Joint Venture: Associate; % of Shares 
+Held by 
+Listed Entity*: 33.42#; Does the Entity Indicated at 
+Column A, Participate in the Business 
+Responsibility Initiatives of the Listed 
+Entity? (Yes/No)**: No | S.
+No.: 42.; Name of the Holding/Subsidiary/
+Associate Companies/
+Joint Ventures (A): Mother Sparsh Baby Care Private Limited; Indicate Whether 
+Holding/Subsidiary/ 
+Associate/
+Joint Venture: Associate; % of Shares 
+Held by 
+Listed Entity*: 22.00#; Does the Entity Indicated at 
+Column A, Participate in the Business 
+Responsibility Initiatives of the Listed 
+Entity? (Yes/No)**: No
+
+Table 113: | FY 2022-23
+Current Financial Year: Number of 
+complaints 
+filed during 
+the year; FY 2021-22
+Previous Financial Year: Number of 
+complaints 
+filed during 
+the year | Stakeholder 
+Group from 
+whom 
+Complaint is 
+Received: Communities; Grievance 
+Redressal 
+Mechanism in 
+Place (Yes/No) 
+(If Yes, then 
+provide web-link 
+for Grievance 
+Redress Policy) *: Yes; FY 2022-23
+Current Financial Year: 0; FY 2021-22
+Previous Financial Year: 0 | Stakeholder 
+Group from 
+whom 
+Complaint is 
+Received: Investors and 
+Shareholders; Grievance 
+Redressal 
+Mechanism in 
+Place (Yes/No) 
+(If Yes, then 
+provide web-link 
+for Grievance 
+Redress Policy) *: Yes; FY 2022-23
+Current Financial Year: 1; FY 2021-22
+Previous Financial Year: 1 | Stakeholder 
+Group from 
+whom 
+Complaint is 
+Received: Employees 
+and Workers; Grievance 
+Redressal 
+Mechanism in 
+Place (Yes/No) 
+(If Yes, then 
+provide web-link 
+for Grievance 
+Redress Policy) *: Yes.
+It is available 
+through the ITC 
+Intranet; FY 2022-23
+Current Financial Year: 144; FY 2021-22
+Previous Financial Year: 212 | Stakeholder 
+Group from 
+whom 
+Complaint is 
+Received: Customers; Grievance 
+Redressal 
+Mechanism in 
+Place (Yes/No) 
+(If Yes, then 
+provide web-link 
+for Grievance 
+Redress Policy) *: Yes; FY 2022-23
+Current Financial Year: 18,846; FY 2021-22
+Previous Financial Year: ~10,000 | Stakeholder 
+Group from 
+whom 
+Complaint is 
+Received: Value Chain 
+Partners; Grievance 
+Redressal 
+Mechanism in 
+Place (Yes/No) 
+(If Yes, then 
+provide web-link 
+for Grievance 
+Redress Policy) *: Yes; FY 2022-23
+Current Financial Year: -; FY 2021-22
+Previous Financial Year: -
+
+Table 114: | Stakeholder 
+Group from whom 
+Complaint is Received: Communities; Grievance Redressal Mechanism in Place: In addition to all the ongoing and regular community interactions and stakeholder engagements, 
+ITC has initiated a structured process to capture views, issues, complaints and grievances of 
+community members pertaining to the operations of ITC’s Social Investments Programme (SIP). 
+During 2022-23, 66 such community engagements were held across all major states where 
+SIP projects are implemented – Andhra Pradesh, Assam, Himachal Pradesh, Rajasthan, 
+Karnataka, Madhya Pradesh, Maharashtra, Punjab, Telangana, Uttar Pradesh, Uttarakhand, 
+Bihar, Tamil Nadu and West Bengal. The sessions were conducted by ITC SIP team’s State level 
+managers. Meetings were Organised with community members in villages and urban catchments 
+wherein the programme implementing NGOs were also present. All meetings were planned and 
+reviewed by the SIP team at Head Office.
+No grievances pertaining to the interventions under ITC Social Investments Programme were recorded.
+The SIP state teams have taken cognizance of the relevant requests and expectations and 
+appropriate actions have been incorporated in the plans for the upcoming year.
+
+Table 115: | Investors and 
+Shareholders: Employees and 
+Workers; https://www.itcportal.com/investor/index.aspx
+The Company has an Investor Service Centre (‘ISC’) which is registered with SEBI as 
+Category II Share Transfer Agent for providing in-house share registration and related services to 
+the shareholders and investors. ISC has effective systems and processes in place to ensure prompt 
+redressal of investor grievances, as follows:
+ISC has a ‘Complaint Identification Policy’ for identification of investor complaints. ISC attends 
+(a) 
+to  shareholder/investor  complaints  within  three  working  days,  except  where  constrained  by 
+disputes or legal impediments or other exceptional circumstances. 
+The Head of ISC is responsible for redressal of investor grievances.
+(b) 
+The Company has a specific e-mail address earmarked for receiving investor complaints which 
+(c) 
+is isc@itc.in.
+The ‘Investor Charter’ of the Company and the status of investor complaints received by the 
+(d) 
+Company are available on its website at https://www.itcportal.com/about-itc/shareholder-
+value/investor-relations/investor-charter.aspx and https://www.itcportal.com/about-        
+itc/shareholder-value/pdf/investor-complaint.pdf, respectively.
+(e)  A Board Level Committee viz., the Securityholders Relationship Committee, has been mandated 
+to  oversee  redressal  of  investor  grievances,  and  review  adherence  to  the  service  standards 
+adopted by the Company in respect of its in-house share registration activities.
+Details of investor complaints received by the Company are filed on a quarterly basis with the 
+(f) 
+Stock Exchanges where the Company’s shares are listed, and with the SEBI on a half-yearly basis.: The Company, through its Grievance Redressal Policy, seeks to address employee concerns and 
+complaints pertaining to human rights and labour practices. A Grievance Redressal Procedure 
+with appropriate systems and mechanisms is available across ITC Units. It aims to facilitate open 
+and structured discussions on grievances raised on labour practices and human rights. The 
+implementation is ensured by Divisional/SBU Chief Executives, through members of the respective 
+Management Committees of the Businesses. | Investors and 
+Shareholders: Customers; https://www.itcportal.com/investor/index.aspx
+The Company has an Investor Service Centre (‘ISC’) which is registered with SEBI as 
+Category II Share Transfer Agent for providing in-house share registration and related services to 
+the shareholders and investors. ISC has effective systems and processes in place to ensure prompt 
+redressal of investor grievances, as follows:
+ISC has a ‘Complaint Identification Policy’ for identification of investor complaints. ISC attends 
+(a) 
+to  shareholder/investor  complaints  within  three  working  days,  except  where  constrained  by 
+disputes or legal impediments or other exceptional circumstances. 
+The Head of ISC is responsible for redressal of investor grievances.
+(b) 
+The Company has a specific e-mail address earmarked for receiving investor complaints which 
+(c) 
+is isc@itc.in.
+The ‘Investor Charter’ of the Company and the status of investor complaints received by the 
+(d) 
+Company are available on its website at https://www.itcportal.com/about-itc/shareholder-
+value/investor-relations/investor-charter.aspx and https://www.itcportal.com/about-        
+itc/shareholder-value/pdf/investor-complaint.pdf, respectively.
+(e)  A Board Level Committee viz., the Securityholders Relationship Committee, has been mandated 
+to  oversee  redressal  of  investor  grievances,  and  review  adherence  to  the  service  standards 
+adopted by the Company in respect of its in-house share registration activities.
+Details of investor complaints received by the Company are filed on a quarterly basis with the 
+(f) 
+Stock Exchanges where the Company’s shares are listed, and with the SEBI on a half-yearly basis.: The Company provides various avenues to customers for raising their grievances:
+•	Web form on ITC’s website: https://www.itcportal.com/contact-us.aspx
+•	Customers can write to the following email addresses:
+o webmaster@itc.in
+o contactus@itc.in 
+•	Customers can also raise their grievances via Brand-specific websites and/or social media handles | Investors and 
+Shareholders: Value Chain 
+Partners; https://www.itcportal.com/investor/index.aspx
+The Company has an Investor Service Centre (‘ISC’) which is registered with SEBI as 
+Category II Share Transfer Agent for providing in-house share registration and related services to 
+the shareholders and investors. ISC has effective systems and processes in place to ensure prompt 
+redressal of investor grievances, as follows:
+ISC has a ‘Complaint Identification Policy’ for identification of investor complaints. ISC attends 
+(a) 
+to  shareholder/investor  complaints  within  three  working  days,  except  where  constrained  by 
+disputes or legal impediments or other exceptional circumstances. 
+The Head of ISC is responsible for redressal of investor grievances.
+(b) 
+The Company has a specific e-mail address earmarked for receiving investor complaints which 
+(c) 
+is isc@itc.in.
+The ‘Investor Charter’ of the Company and the status of investor complaints received by the 
+(d) 
+Company are available on its website at https://www.itcportal.com/about-itc/shareholder-
+value/investor-relations/investor-charter.aspx and https://www.itcportal.com/about-        
+itc/shareholder-value/pdf/investor-complaint.pdf, respectively.
+(e)  A Board Level Committee viz., the Securityholders Relationship Committee, has been mandated 
+to  oversee  redressal  of  investor  grievances,  and  review  adherence  to  the  service  standards 
+adopted by the Company in respect of its in-house share registration activities.
+Details of investor complaints received by the Company are filed on a quarterly basis with the 
+(f) 
+Stock Exchanges where the Company’s shares are listed, and with the SEBI on a half-yearly basis.: As per the Company’s Code of Conduct for Suppliers and Service Providers, they are expected to 
+bring to the notice of the manager concerned at ITC, any actual or suspected breach of the Code. 
+Suppliers and Service Providers are encouraged to report any known or suspected improper 
+behaviour of ITC employees. Such reports are treated in a confidential manner.
+
+Table 116: | S. 
+No.: 1.; Material 
+Issue 
+Identified: Climate 
+Change; Indicate 
+whether 
+Risk or 
+Opportunity 
+(R/O): Risk; Rationale for Identifying the 
+Risk/Opportunity: Climate related physical and 
+transitional disruptions may 
+impact business operations, 
+sourcing, supply chain and 
+increase compliance costs.  
+Potential Impact
+• As average temperatures 
+rise, extreme weather 
+events are expected to 
+grow in terms of severity 
+and frequency which could 
+have significant impact on 
+the Company’s operations, 
+its physical assets and agri 
+value chains. These may 
+lead to complete or partial 
+outage of operations. 
+Further, these events may 
+also adversely impact the 
+availability and quality 
+of agri raw materials 
+and consequently, the 
+production and sales of the 
+Company’s products
+• Vagaries of weather caused 
+by climate change impact 
+crop cycles, output and 
+productivity can result in 
+disruption of operations/ 
+supply chain
+• Availability of water for 
+own operations as well as 
+farm value chains also can 
+get impacted by erratic 
+precipitation patterns; In case of Risk, Approach 
+to Adapt or Mitigate: Physical Risk 
+Management:
+• Climate risk modelling 
+for identifying high-
+risk/vulnerable sites 
+and agri value chains, 
+and undertaking 
+detailed assessments 
+for developing locally 
+contextual adaptation 
+plans, risk mitigation 
+strategies and 
+undertaking measures 
+for improving climate 
+resilience
+• Promotion of climate 
+smart agriculture, and 
+development of heat/
+drought tolerant and 
+high yielding varieties to 
+improve productivity by 
+adopting micro region-
+specific agronomic 
+practices
+- Micro segmentation 
+of growing zones and 
+developing appropriate 
+package of practices 
+and precision farming 
+techniques to mitigate 
+impact of weather. 
+- Enhancing climate 
+resilience of farmers 
+through capacity building 
+programmes including 
+leveraging ITCMAARS 
+app together with the 
+FPO (Farmers’ Producer 
+Organisation) ecosystem, 
+and supported by field 
+demonstrations under 
+Choupal Pradarshan 
+Khets.; Financial 
+Implications 
+of the Risk or 
+Opportunity 
+(Indicate Positive 
+or Negative 
+Implications): -
+
+Table 117: | Rationale for Identifying the 
+Risk/Opportunity: • Besides physical risks, 
+there are also transition 
+risks associated with 
+climate change, that can 
+impact the Company’s 
+operations:
+- Additional levies may be 
+imposed by regulatory 
+authorities for emission/
+water intensive industries 
+to address climate change, 
+which will lead to higher 
+cost of compliance, and 
+potential regulatory 
+penalties and reputational 
+risk in case of non-
+compliance.; In case of Risk, Approach to 
+Adapt or Mitigate: - Comprehensive 
+programmes on social 
+forestry, soil and moisture 
+conservation and 
+biodiversity conservation.
+- Adoption of water 
+stewardship approach to 
+achieve water security for 
+all stakeholders within the 
+defined catchment areas of 
+units located in high water 
+stress areas.
+• Diversification and 
+contingency planning of 
+supply chain
+• Map risks arising out 
+of climate crisis, build 
+adaptive capacity and invest 
+in mitigative measures to 
+strengthen resilience across 
+the value chain
+Transition Risk 
+Management:
+• Continue to focus on energy 
+conservation, improving 
+energy productivity and 
+enhancing the share of 
+renewables in ITC’s total 
+energy requirement as part 
+of ITC’s Sustainability 2.0 
+targets; strengthen enterprise 
+sustainability and governance 
+mechanisms for reviewing 
+performance and progress 
+against Sustainability 
+2.0 targets through the 
+Sustainability Compliance and 
+Review Committee (SCRC)
+• Adopt the Life-cycle 
+Assessment (LCA) approach 
+for identifying environmental 
+impact across a product’s 
+lifecycle; leverage the same 
+for sustainable design and 
+product innovation
+
+Table 118: | S. 
+No.: 2; Material 
+Issue 
+Identified: Product 
+and Plastic 
+Packaging; Indicate 
+whether 
+Risk or 
+Opportunity 
+(R/O): Risk; Rationale for Identifying the 
+Risk/Opportunity: Inability to comply with 
+current or future regulation 
+on plastic packaging and/or 
+failure to meet commitments 
+on packaging and the 
+environment. 
+Potential Impact
+• Non-compliance to plastic 
+waste management 
+regulations could lead to 
+imposition of environmental 
+compensation, that 
+may negatively impact 
+Company’s reputation; 
+additionally, stricter 
+government laws around 
+usage of plastics including 
+bans may give rise to 
+multiple challenges such 
+as redesign of product 
+packaging, shelf life-
+related issues and product 
+distribution issues 
+• Disruptions in the supply 
+chain for recycled plastic 
+or plastic packaging 
+substitutes as required 
+by law, can impact the 
+Company’s ability to comply, 
+produce and distribute 
+products
+• Inability to provide 
+sustainable alternatives 
+could have a negative 
+impact on consumer 
+sentiment; In case of Risk, Approach to 
+Adapt or Mitigate: • Going beyond compliance 
+wherever possible: 
+- Ensuring plastic neutrality 
+ahead of regulatory targets 
+through source segregation 
+programmes, creating 
+replicable, scalable and 
+sustainable models of solid 
+waste management, and 
+developing viable recycling 
+options for Multi-Layered 
+Plastic (MLP) packaging. 
+- Ensuring that 100% of 
+packaging is reusable, 
+recyclable or compostable/
+biodegradable.
+• Partnering with upstream 
+players and suppliers 
+for ensuring supply of 
+recycled plastic for meeting 
+regulatory/market demand 
+for increasing recycled 
+content in plastic packaging 
+• Harnessing the enterprise 
+strengths of ITC (Life 
+Sciences and Technology 
+Centre, Paperboards & 
+Specialty Paper Division 
+and Packaging and Printing 
+Division) in driving cutting-
+edge innovation to offer 
+sustainable alternatives to 
+single-use plastics; pursue 
+sustainable packaging 
+initiatives like reduction in 
+plastic packaging intensity, 
+and improving recyclability 
+of plastic packaging; Financial 
+Implications 
+of the Risk or 
+Opportunity 
+(Indicate Positive 
+or Negative 
+Implications): -
+
+Table 119: | P1: P2; Businesses should conduct and govern themselves with integrity, and in a manner that is Ethical, 
+Transparent and Accountable: Businesses should provide goods and services in a manner that is sustainable and safe | P1: P3; Businesses should conduct and govern themselves with integrity, and in a manner that is Ethical, 
+Transparent and Accountable: Businesses should respect and promote the well-being of all employees, including those in their value chains | P1: P4; Businesses should conduct and govern themselves with integrity, and in a manner that is Ethical, 
+Transparent and Accountable: Businesses should respect the interests of and be responsive to all its stakeholders | P1: P5; Businesses should conduct and govern themselves with integrity, and in a manner that is Ethical, 
+Transparent and Accountable: Businesses should respect and promote human rights | P1: P6; Businesses should conduct and govern themselves with integrity, and in a manner that is Ethical, 
+Transparent and Accountable: Businesses should respect and make efforts to protect and restore the environment | P1: P7; Businesses should conduct and govern themselves with integrity, and in a manner that is Ethical, 
+Transparent and Accountable: Businesses, when engaging in influencing public and regulatory policy, should do so in a manner that is 
+responsible and transparent | P1: P8; Businesses should conduct and govern themselves with integrity, and in a manner that is Ethical, 
+Transparent and Accountable: Businesses should promote inclusive growth and equitable development | P1: P9; Businesses should conduct and govern themselves with integrity, and in a manner that is Ethical, 
+Transparent and Accountable: Businesses should engage with and provide value to their consumers in a responsible manner
+
+Table 120: | Disclosure Questions
+P1
+P2
+P3
+P4
+P5
+P6
+P7
+P8
+P9: Policy and Management Processes | Disclosure Questions
+P1
+P2
+P3
+P4
+P5
+P6
+P7
+P8
+P9: 1. a. Whether your Entity’s 
+Policy/Policies Cover Each 
+Principle and its Core 
+Elements of the NGRBCs. 
+(Yes/No) | Disclosure Questions
+P1
+P2
+P3
+P4
+P5
+P6
+P7
+P8
+P9: b. Has the Policy been Approved 
+by the Board? (Yes/No) | Disclosure Questions
+P1
+P2
+P3
+P4
+P5
+P6
+P7
+P8
+P9: c. Web Link of the Policies, 
+if available | Disclosure Questions
+P1
+P2
+P3
+P4
+P5
+P6
+P7
+P8
+P9: 2. Whether the Entity has 
+Translated the Policy into 
+Procedures? (Yes/No) | Disclosure Questions
+P1
+P2
+P3
+P4
+P5
+P6
+P7
+P8
+P9: 3. Do the Enlisted Policies 
+extend to your Value Chain 
+Partners? (Yes/No) | Disclosure Questions
+P1
+P2
+P3
+P4
+P5
+P6
+P7
+P8
+P9: 4. Name of the National 
+and International Codes/
+Certifications/Labels/ 
+Standards (e.g. Forest 
+Stewardship Council, 
+Fairtrade, Rainforest 
+Alliance, Trustea) 
+Standards (e.g. SA 8000, 
+OHSAS, ISO, BIS) Adopted 
+by your Entity and Mapped 
+to each Principle.
+
+Table 121: | 5. Specific Commitments, Goals and 
+Targets set by the Entity with defined 
+Timelines, if any.: 6. Performance of the Entity against 
+the Specific Commitments, Goals and 
+Targets along with reasons in case 
+the same are not met. | 5. Specific Commitments, Goals and 
+Targets set by the Entity with defined 
+Timelines, if any.: Governance, Leadership and Oversight | 5. Specific Commitments, Goals and 
+Targets set by the Entity with defined 
+Timelines, if any.: 7. Statement by Director Responsible for the Business Responsibility Report, Highlighting ESG Related 
+Challenges, Targets and Achievements (listed entity has flexibility regarding the placement of this disclosure)
+Please refer to the ‘Chairman’s Statement’ section in ITC Sustainability & Integrated Report 2023. | 5. Specific Commitments, Goals and 
+Targets set by the Entity with defined 
+Timelines, if any.: 8. Details of the Highest Authority 
+Responsible for Implementation 
+and Oversight of the Business 
+Responsibility Policy(ies).; In line with its Sustainability 2.0 agenda, ITC has set short to medium targets 
+for key priority areas like climate change, water stewardship, plastic waste 
+and circular economy, sustainable agriculture, biodiversity conservation and 
+sustainable livelihoods. In line with the above, ITC’s Businesses have targets for 
+Key Performance Indicators (KPIs) like specific energy consumption, specific 
+greenhouse gas emissions, specific water intake and specific waste generation. 
+In order to achieve these targets, all ITC Units have established management 
+systems which entail regular monitoring of environmental KPIs, development of 
+an environmental management plan, and reviewing progress on a regular basis to 
+ensure that Businesses are on track with respect to the agreed roadmap. 
+For more information on annual performance against the Sustainability 2.0 
+targets, refer to ‘Sustainability 2.0 Ambitions: 2030 Targets’ section of ITC 
+Sustainability & Integrated Report 2023.: The CSR and Sustainability Committee of the Board, chaired by the 
+Chairman & Managing Director, reviews and oversees implementation of the 
+Sustainability Policies of the Company on an annual basis. In addition, the 
+CSR and Sustainability Committee and the Board of Directors also review 
+the progress of implementation of the Company’s CSR Programmes on a 
+half-yearly basis. The composition of the CSR and Sustainability Committee 
+as on 31st March, 2023 is given below:
+At the highest level, the Board of Directors of the Company has the primary role of 
+trusteeship to protect and enhance shareholder value through strategic supervision 
+of ITC. As trustees, the Board ensures that the Company has clear goals aligned to 
+shareholder value and its growth, and also in line with its Sustainability agenda.
+The Corporate Management Committee (CMC) of the Company is the management 
+body responsible for compliance with the Sustainability Policies of the Company.
+The CMC has constituted the Sustainability Compliance Review Committee 
+(SCRC), which monitors and evaluates compliance with these Policies and places a 
+quarterly report thereon for review by the CMC. The Chief Executives of Divisions/ 
+Strategic Business Units (SBUs), through members of the respective Management 
+Committees, and Heads of Corporate Functions, are responsible for ensuring 
+implementation of the Sustainability Policies of the Company within their respective 
+Division/SBU/Corporate Function, and communication of these Policies to the 
+employees.
+In addition, the Chief Sustainability Officer (CSO) of the Company is, inter alia, 
+responsible for periodic review of material issues, scanning the external 
+environment for evolving sustainability trends and regulations, monitoring the 
+progress on sustainability targets and facilitating the Businesses & Corporate 
+Functions in implementing the sustainability initiatives. The CSO reports to the 
+Group Head of Sustainability who is also a CMC Member and the Chairman of the 
+SCRC. The CSO provides progress reportbacks on the Company’s sustainability 
+initiatives to the senior leadership of the Company.
+
+Table 122: | 9. Does the entity have 
+a specified Committee 
+of the Board/Director 
+responsible for decision 
+making on sustainability 
+related issues? (Yes/No). 
+If yes, provide details.: 10. Details of Review of NGRBCs by the Company: | Yes, as stated under (8) above, the CSR and Sustainability Committee of the Board, inter alia, 
+reviews, monitors and provides strategic direction to the Company’s CSR and sustainability 
+practices towards fulfilling its Triple Bottom Line objectives. The Committee seeks to guide the 
+Company in crafting unique models to support creation of sustainable livelihoods together with 
+environmental re-generation.
+The CSR and Sustainability Committee of the Board also reviews the Business Responsibility and 
+Sustainability Report of the Company and recommends the same to the Board for adoption, and 
+approves the Sustainability & Integrated Report of the Company.: Indicate whether review was undertaken by 
+Director/ Committee of the Board/Any other 
+Committee | Yes, as stated under (8) above, the CSR and Sustainability Committee of the Board, inter alia, 
+reviews, monitors and provides strategic direction to the Company’s CSR and sustainability 
+practices towards fulfilling its Triple Bottom Line objectives. The Committee seeks to guide the 
+Company in crafting unique models to support creation of sustainable livelihoods together with 
+environmental re-generation.
+The CSR and Sustainability Committee of the Board also reviews the Business Responsibility and 
+Sustainability Report of the Company and recommends the same to the Board for adoption, and 
+approves the Sustainability & Integrated Report of the Company.: P1 | 9. Does the entity have 
+a specified Committee 
+of the Board/Director 
+responsible for decision 
+making on sustainability 
+related issues? (Yes/No). 
+If yes, provide details.: Performance Against 
+Above Policies and 
+Follow-up Action; Yes, as stated under (8) above, the CSR and Sustainability Committee of the Board, inter alia, 
+reviews, monitors and provides strategic direction to the Company’s CSR and sustainability 
+practices towards fulfilling its Triple Bottom Line objectives. The Committee seeks to guide the 
+Company in crafting unique models to support creation of sustainable livelihoods together with 
+environmental re-generation.
+The CSR and Sustainability Committee of the Board also reviews the Business Responsibility and 
+Sustainability Report of the Company and recommends the same to the Board for adoption, and 
+approves the Sustainability & Integrated Report of the Company.: Any other 
+Committee
+On a 
+quarterly 
+basis | Yes, as stated under (8) above, the CSR and Sustainability Committee of the Board, inter alia, 
+reviews, monitors and provides strategic direction to the Company’s CSR and sustainability 
+practices towards fulfilling its Triple Bottom Line objectives. The Committee seeks to guide the 
+Company in crafting unique models to support creation of sustainable livelihoods together with 
+environmental re-generation.
+The CSR and Sustainability Committee of the Board also reviews the Business Responsibility and 
+Sustainability Report of the Company and recommends the same to the Board for adoption, and 
+approves the Sustainability & Integrated Report of the Company.: As stated under (8) above, the Sustainability Compliance Review Committee is responsible for 
+monitoring and evaluating compliance with the Sustainability Policies of the Company and placing 
+a quarterly report thereon for review by the CMC. The CSR and Sustainability Committee of the 
+Board also reviews implementation of these Policies on an annual basis. 
+The Chief Executives of Divisions/Strategic Business Units (SBU) and Heads of Corporate 
+Functions are responsible for ensuring implementation of the Sustainability Policies of the 
+Company within their respective Division/SBU/Corporate Function. | 9. Does the entity have 
+a specified Committee 
+of the Board/Director 
+responsible for decision 
+making on sustainability 
+related issues? (Yes/No). 
+If yes, provide details.: Compliance with   
+Statutory Requirements 
+of Relevance to the 
+Principles, and, 
+Rectification of any 
+Non-compliances; Yes, as stated under (8) above, the CSR and Sustainability Committee of the Board, inter alia, 
+reviews, monitors and provides strategic direction to the Company’s CSR and sustainability 
+practices towards fulfilling its Triple Bottom Line objectives. The Committee seeks to guide the 
+Company in crafting unique models to support creation of sustainable livelihoods together with 
+environmental re-generation.
+The CSR and Sustainability Committee of the Board also reviews the Business Responsibility and 
+Sustainability Report of the Company and recommends the same to the Board for adoption, and 
+approves the Sustainability & Integrated Report of the Company.: Any other 
+Committee
+On a 
+quarterly 
+basis | Yes, as stated under (8) above, the CSR and Sustainability Committee of the Board, inter alia, 
+reviews, monitors and provides strategic direction to the Company’s CSR and sustainability 
+practices towards fulfilling its Triple Bottom Line objectives. The Committee seeks to guide the 
+Company in crafting unique models to support creation of sustainable livelihoods together with 
+environmental re-generation.
+The CSR and Sustainability Committee of the Board also reviews the Business Responsibility and 
+Sustainability Report of the Company and recommends the same to the Board for adoption, and 
+approves the Sustainability & Integrated Report of the Company.: The Company is in compliance with applicable laws and regulations. | 9. Does the entity have 
+a specified Committee 
+of the Board/Director 
+responsible for decision 
+making on sustainability 
+related issues? (Yes/No). 
+If yes, provide details.: 11. Has the Entity 
+Carried out Independent 
+Assessment/Evaluation 
+of the Working of its 
+Policies by an External 
+Agency? (Yes/No). If 
+yes, provide name of the 
+agency.; Yes, as stated under (8) above, the CSR and Sustainability Committee of the Board, inter alia, 
+reviews, monitors and provides strategic direction to the Company’s CSR and sustainability 
+practices towards fulfilling its Triple Bottom Line objectives. The Committee seeks to guide the 
+Company in crafting unique models to support creation of sustainable livelihoods together with 
+environmental re-generation.
+The CSR and Sustainability Committee of the Board also reviews the Business Responsibility and 
+Sustainability Report of the Company and recommends the same to the Board for adoption, and 
+approves the Sustainability & Integrated Report of the Company.: •  ITC has been obtaining independent third-party assurance for its Sustainability Reports since 
+2004, in the reporting year, authenticity of the data and systems disclosed in the Sustainability 
+& Integrated Report 2023 has been assured by an independent third-party assurance 
+provider; the assurance has been provided as per the International Standard for Assurance 
+Engagements (ISAE) 3000 at the ‘Reasonable Assurance’ level
+•  ITC has computed its Green House Gas (GHG) inventory, including GHG emissions, biogenic 
+emissions and GHG removals, in accordance with ISO 14064:2018; the GHG inventory of 
+FY 2022-23 has been verified at the ‘Reasonable Assurance’ level by an independent third-party 
+assurance provider
+•  In addition to the above, relevant third-party assessments and certifications are conducted 
+across Business Units periodically
+
+Table 123: | Segment: Board of 
+Directors; Total Number 
+of Training and 
+Awareness 
+Programmes Held: 8; Topics/Principles covered under the
+Training and its Impact: • The Directors of the Company are briefed on the 
+sustainability initiatives of the Company from time 
+to time. The Directors are also updated on changes/
+developments in the domestic/global corporate 
+and industry scenario including those pertaining to 
+statutes/legislation & economic environment and on 
+matters affecting the Company, to enable them to take 
+well informed and timely decisions
+• During the financial year 2022-23, the Directors and KMP 
+of the Company were briefed/updated on the following:
+a) Business Plan of the Company for the ensuing years.
+b) CSR initiatives of the Company. 
+c) Diversity and Inclusion at ITC.
+d) E-Commerce and New Routes to Market.
+e) Talent Retention and Engagement at ITC.
+f) Update on IT Business.
+g) Field visit to Sehore, Madhya Pradesh, to 
+experience the ITC-MAARS Project and other social 
+investment projects.
+• In addition to the above, the Directors of the Company 
+attended a ‘Strategy Session’ where the Company’s 
+overall strategy, including ITC Sustainability 2.0 vision 
+and goals, were discussed/reviewed | Segment: Key 
+Managerial 
+Personnel 
+(other than 
+Directors) | Segment: Employees 
+other than 
+BoD and 
+KMPs; Total Number 
+of Training and 
+Awareness 
+Programmes Held: 11 (types of 
+training); Topics/Principles covered under the
+Training and its Impact: Health and Safety,** ITC Code of Conduct, Policy on 
+Prevention of Sexual Harassment at the workplace, 
+and Wellness programmes; %age of Persons in 
+Respective Category 
+covered by the 
+Awareness Programmes: 100%* | Segment: Workers; Total Number 
+of Training and 
+Awareness 
+Programmes Held: 11 (types of 
+training); Topics/Principles covered under the
+Training and its Impact: Health and Safety,** ITC Code of Conduct, Policy on 
+Prevention of Sexual Harassment at the workplace, 
+and Wellness programmes; %age of Persons in 
+Respective Category 
+covered by the 
+Awareness Programmes: 100%*
+
+Table 124: | Monetary: Penalty/Fine | Monetary: Settlement | Monetary: Compounding Fee
+
+Table 125: | Non-Monetary: Imprisonment | Non-Monetary: Punishment
+
+Table 126: | FY 2022-23: Nil; FY 2021-22: Nil | FY 2022-23: Nil; FY 2021-22: Nil | FY 2022-23: Nil; FY 2021-22: Nil | FY 2022-23: Nil; FY 2021-22: Nil
+
+Table 127: | FY 2022-23: Number; FY 2021-22: Number | FY 2022-23: Nil; FY 2021-22: Nil | FY 2022-23: Nil; FY 2021-22: Nil
+
+Table 128: | Total Number of Awareness 
+Programmes held: 4; Topics/Principles covered 
+under the Training: • Environmental Compliance
+• Fair Business Practices
+• Corporate Governance and Ethics
+• Occupational Health and Safety
+• Fair Labour Practices and Human 
+   Rights; %age of Value Chain Partners covered 
+(by Value of Business done with such Partners) 
+under the Awareness Programmes: • 60% of the identified Critical Tier-1 suppliers
+
+Table 129: | FY 2022-23: 9.67; FY 2021-22: 20.17 | FY 2022-23: 161.31; FY 2021-22: 143.59 | FY 2022-23: 170.98; FY 2021-22: 163.76 | FY 2022-23: 18.93; FY 2021-22: 12.22
+
+Table 130: | Description of Processes: ITC achieved Plastic Neutrality in FY 2021-22 by implementing an integrated solid waste 
+management programme that incorporates unique and multi-dimensional initiatives including the 
+Company’s flagship waste management initiative ‘ITC WOW – Well Being Out of Waste’. In FY 2022-23, 
+the Company collected and sustainably managed more than 60,000 tonnes of plastic waste across 36 
+States and Union Territories. The amount of plastic waste managed exceeded the amount of plastic 
+packaging utilised by ITC during the year, enabling the Company to maintain the milestone of Plastic 
+Neutrality.
+ITC has been recycling more than 99% of the solid waste generated through its operations including 
+plastic waste for more than a decade. | Description of Processes: Not applicable | Description of Processes: Not applicable | Description of Processes: All ITC Units have established systems and procedures to ensure that waste is disposed through 
+authorised agencies in line with applicable regulations.
+
+Table 131: | NIC Code: 46496; Name of 
+Product/
+Service: Classmate 
+Notebook; % of total 
+Turnover 
+contributed: -; Boundary for which the 
+Life Cycle Perspective/
+Assessment was 
+conducted: Cradle-to-grave; Whether 
+conducted by 
+Independent 
+External Agency
+(Yes/No): Yes; Results Communicated
+in Public Domain
+(Yes/No)
+If yes, Provide the
+web-link.: No | NIC Code: 20237; Name of 
+Product/
+Service: Savlon Powder 
+Handwash; % of total 
+Turnover 
+contributed: -; Boundary for which the 
+Life Cycle Perspective/
+Assessment was 
+conducted: Cradle-to-grave; Whether 
+conducted by 
+Independent 
+External Agency
+(Yes/No): Yes; Results Communicated
+in Public Domain
+(Yes/No)
+If yes, Provide the
+web-link.: No | NIC Code: 20237; Name of 
+Product/
+Service: Savlon Liquid 
+Handwash; % of total 
+Turnover 
+contributed: -; Boundary for which the 
+Life Cycle Perspective/
+Assessment was 
+conducted: Cradle-to-grave; Whether 
+conducted by 
+Independent 
+External Agency
+(Yes/No): Yes; Results Communicated
+in Public Domain
+(Yes/No)
+If yes, Provide the
+web-link.: No | NIC Code: 20239/ 
+46491; Name of 
+Product/
+Service: Nimyle Floor 
+Cleaner; % of total 
+Turnover 
+contributed: -; Boundary for which the 
+Life Cycle Perspective/
+Assessment was 
+conducted: Cradle-to-gate; Whether 
+conducted by 
+Independent 
+External Agency
+(Yes/No): Yes; Results Communicated
+in Public Domain
+(Yes/No)
+If yes, Provide the
+web-link.: No
+
+Table 132: | Recycled or Re-used Input Material to Total Material: FY 2022-23 | Indicate Input Material: Waste Paper used in Kovai Mill; Recycled or Re-used Input Material to Total Material: Recycled Paper used: 
+~ 84,000 tonnes | Indicate Input Material: Use of Recycled Plastic Content; Recycled or Re-used Input Material to Total Material: Savlon Glycerine Soap Wrapper with 
+70% PCR (Post-consumer Recycled 
+Plastic) in PET layer.
+Fiama Handwash Portfolio with 50% 
+PCR PET Bottles.
+
+Table 133: | FY 2022-23: Re-used; FY 2021-22: Re-used | FY 2022-23: -; FY 2021-22: - | FY 2022-23: NA*; FY 2021-22: NA | FY 2022-23: NA; FY 2021-22: NA | FY 2022-23: NA; FY 2021-22: NA
+
+Table 134: | % of Employees Covered by: Total
+Health Insurance
+Accident
+Maternity 
+Paternity 
+Day Care 
+(A)
+Insurance
+Benefits
+Benefits
+Facilities
+Number 
+% (B/A)
+Number 
+% (C/A)
+Number 
+%
+Number 
+%
+Number 
+%
+(B)
+(C)
+(D)
+(D/A)
+(E)
+(E/A)
+(F)
+(F/A) | Category: Permanent Employees | Category: Male
+21,337
+21,337
+100%
+21,337
+100%
+-
+0%
+9,389
+44%
+-
+- | Category: Female
+2,388
+2,388
+100%
+2,388
+100%
+2,388
+100%
+-
+-
+2,388
+100% | Category: Total
+23,725
+23,725
+100%
+23,725
+100%
+2,388
+100%
+9,389
+44%
+2,388
+100% | Category: Other than Permanent Employees | Category: Male
+22,157
+21,952
+99%
+22,072
+100%
+-
+0%
+-
+-
+-
+- | Category: Female
+3,942
+3,921
+99%
+3,938
+100%
+3,939
+100%
+-
+-
+3,939*
+100% | Category: Total
+26,099
+25,873
+99%
+26,010
+100%
+3,939
+100%
+-
+-
+3,939
+100%
+
+Table 135: | % of Workers Covered by: Total 
+Health
+Accident
+Maternity
+Paternity 
+Day Care 
+(A)
+Insurance
+Insurance
+Benefits
+Benefits
+Facilities | % of Workers Covered by: Number 
+%
+Number 
+%
+Number 
+%
+Number 
+%
+Number 
+%
+(B)
+(B/A)
+(C)
+(C/A)
+(D)
+(D/A)
+(E)
+(E/A)
+(F)
+(F/A) | Category: Permanent Workers | Category: Male
+11,948
+11,948
+100%
+11,948
+100%
+-
+0%
+-
+-
+-
+0% | Category: Female
+654
+654
+100%
+654
+100%
+654
+100%
+-
+-
+654
+100% | Category: Total
+12,602
+12,602
+100%
+12,602
+100%
+654
+100%
+-
+-
+654
+100% | Category: Other than Permanent Workers | Category: 0%
+-
+-
+-
+0%
+Male
+22,061
+21,886
+99%
+21,996
+100%
+ - | Category: -
+3,926
+100%
+Female
+3,926
+3,912
+100%
+3,926
+100%
+3,926
+100%
+- | Category: Total
+25,987
+25,798
+99%
+25,922
+100%
+3,926
+100%
+-
+-
+3,926
+100%
+
+Table 136: | FY 2022-23: No. of
+Employees 
+Covered as 
+a % of Total
+Employees; FY 2021-22: No. of 
+Employees 
+Covered as 
+a % of Total 
+Employees | Benefits: PF; FY 2022-23: 100%; FY 2021-22: 100% | Benefits: Gratuity; FY 2022-23: 100%; FY 2021-22: 100% | Benefits: ESI; FY 2022-23: 12%*; FY 2021-22: 11%
+
+Table 137: | Permanent Employees: Return to Work; Permanent Workers: Return to Work | Permanent Employees: 100%; Permanent Workers: - | Permanent Employees: 100%; Permanent Workers: 100% | Permanent Employees: 100%; Permanent Workers: 100%
+
+Table 138: | Yes/No
+(If Yes, then give details of the mechanism in brief): Yes, ITC’s Grievance Redressal Procedure is available to employees and workers. The objective of 
+the policy is to facilitate open and structured discussion on employees’ work-related grievances 
+with the intent of ensuring that the grievance is dealt with in a fair and just manner whilst being 
+in compliance with the Company’s policies. ITC’s open-door practices encourage an amicable 
+and fair resolution of grievances. Employees are encouraged to first discuss the grievance with 
+their immediate reporting authority, and attempt to arrive at a resolution before invoking a formal 
+grievance redressal mechanism.
+In Unionised Units, grievances of workmen are also taken up for discussion by Union Office Bearers 
+and resolved through dialogue with human resources managers and other designated managers. 
+Units also have Committees with joint representation of workers and managers, which address 
+grievances raised by one or more workers. In addition, many Units have forums where workers 
+interact with the unit leadership team in small groups and share any suggestions or grievances they 
+may have, for resolution.
+The Company’s Whistleblower Policy is also applicable to all permanent employees. | Yes/No
+(If Yes, then give details of the mechanism in brief): The Company also has a Whistleblower Policy which encourages all employees to bring to the 
+Company’s attention, instances of illegal or unethical conduct, actual or suspected incidents of fraud, 
+actions that affect the financial integrity of the Company, or actual or suspected instances of leak 
+of unpublished price sensitive information that could adversely impact the Company’s operations, 
+business performance and/or reputation. In terms of the said Policy, the Company investigates such 
+incidents, when reported, in an impartial manner and takes appropriate action to ensure that the 
+requisite standards of professional and ethical conduct are always upheld. This Policy can be accessed 
+on the Company’s corporate website at https://www.itcportal.com/whistleblower-policy | Yes/No
+(If Yes, then give details of the mechanism in brief): Same as stated for Permanent Workers. | Yes/No
+(If Yes, then give details of the mechanism in brief): Same as stated for Other than Permanent Workers.
+
+Table 139: | FY  2022-23: Total
+Employees/ 
+Workers in 
+Respective 
+Category (A); FY 2021-22: Total Employees/ 
+Workers in Respec-
+tive Category (C) | Category: Total
+Permanent
+Employees; FY  2022-23: 23,725; FY 2021-22: 23,829 | Category: - Male; FY  2022-23: 21,337; FY 2021-22: 21,568 | Category: - Female; FY  2022-23: 2,388; FY 2021-22: 2,261 | Category: Total
+Permanent 
+Workers; FY  2022-23: 12,602; FY 2021-22: 12,734 | Category: - Male; FY  2022-23: 11,948; FY 2021-22: 12,102 | Category: - Female; FY  2022-23: 654; FY 2021-22: 632
+
+Table 140: | FY 2022-23: Total (A)
+On Health and
+On Skill
+Safety Measures
+Upgradation
+No.
+%
+No.
+%
+(B)
+(B/A)
+(C)
+(C/A); FY 2021-22: Total (D)
+On Health and
+On Skill
+Safety Measures
+Upgradation
+No.
+%
+No.(F)
+%
+(E)
+(E/D)
+(F/D) | Category: Employees | Category: Male
+21,337
+9,914
+46%
+6,464
+30%
+21,568
+7,019
+33%
+4,199
+19% | Category: Female
+2,388
+877
+37%
+832
+35%
+2,261
+586
+26%
+273
+12% | Category: Total
+23,725
+10,791
+45%
+7,296
+31%
+23,829
+7,605
+32%
+4,472
+19% | Category: Workers | Category: Male
+11,948
+6,832
+57%
+4,052
+34%
+12,102
+5,188
+43%
+2,731
+21% | Category: Female
+654
+524
+80%
+150
+23%
+632
+414
+66%
+0
+0% | Category: Total
+12,602
+7,356
+58%
+4,202
+33%
+12,734
+5,602
+44%
+2,731
+21%
+
+Table 141: | FY 2022-23
+FY 2021-22 
+Category
+Current Financial Year
+Previous Financial Year
+Total (A)
+No. (B)
+% (B/A)
+Total (C)
+No. (D)
+% (D/C): Employees | FY 2022-23
+FY 2021-22 
+Category
+Current Financial Year
+Previous Financial Year
+Total (A)
+No. (B)
+% (B/A)
+Total (C)
+No. (D)
+% (D/C): Male
+21,337
+17,560
+82%
+21,568
+16,418
+76% | FY 2022-23
+FY 2021-22 
+Category
+Current Financial Year
+Previous Financial Year
+Total (A)
+No. (B)
+% (B/A)
+Total (C)
+No. (D)
+% (D/C): Female
+2,388
+2,283
+96%
+2,261
+2,051
+91% | FY 2022-23
+FY 2021-22 
+Category
+Current Financial Year
+Previous Financial Year
+Total (A)
+No. (B)
+% (B/A)
+Total (C)
+No. (D)
+% (D/C): Total
+23,725
+19,843
+84%
+23,829
+18,469
+78% | FY 2022-23
+FY 2021-22 
+Category
+Current Financial Year
+Previous Financial Year
+Total (A)
+No. (B)
+% (B/A)
+Total (C)
+No. (D)
+% (D/C): Workers | FY 2022-23
+FY 2021-22 
+Category
+Current Financial Year
+Previous Financial Year
+Total (A)
+No. (B)
+% (B/A)
+Total (C)
+No. (D)
+% (D/C): Male
+11,948
+8,171
+68%
+12,102
+6,952
+57% | FY 2022-23
+FY 2021-22 
+Category
+Current Financial Year
+Previous Financial Year
+Total (A)
+No. (B)
+% (B/A)
+Total (C)
+No. (D)
+% (D/C): Female
+654
+549
+84%
+632
+422
+67% | FY 2022-23
+FY 2021-22 
+Category
+Current Financial Year
+Previous Financial Year
+Total (A)
+No. (B)
+% (B/A)
+Total (C)
+No. (D)
+% (D/C): Total
+12,602
+8,720
+69%
+12,734
+7,374
+58%
+
+Table 142: | Safety Incident/
+Number: Lost Time Injury 
+Frequency Rate 
+(LTIFR) (per one 
+million-person 
+hours worked)*; Category: Employees; FY 
+2022-23: 0.07; FY
+2021-22: 0.09 | Category: Workers; FY 
+2022-23: 0.12 | Safety Incident/
+Number: Total recordable 
+work-related injuries*; Category: Employees; FY 
+2022-23: 4; FY
+2021-22: 11 | Category: Workers; FY 
+2022-23: 8 | Safety Incident/
+Number: No. of fatalities*; Category: Employees; FY 
+2022-23: 0; FY
+2021-22: 2 | Category: Workers; FY 
+2022-23: 1 | Safety Incident/
+Number: High consequence 
+work-related injury 
+or ill-health (ex-
+cluding fatalities)*; Category: Employees; FY 
+2022-23: 0; FY
+2021-22: 9 | Category: Workers; FY 
+2022-23: 1
+
+Table 143: | FY 2022-23: Filed during 
+the Year; FY 2021-22: Filed during 
+the Year | FY 2022-23: 134; FY 2021-22: 212 | FY 2022-23: 7; FY 2021-22: 0
+
+Table 144: | % of your Plants and Offices that were assessed (by 
+Entity or Statutory Authorities or Third Parties): 100% | % of your Plants and Offices that were assessed (by 
+Entity or Statutory Authorities or Third Parties): 100%
+
+Table 145: | Total no. of affected 
+Employees/Workers*: FY 2022-23
+FY 2021-22; No. of Employees/Workers that are 
+rehabilitated and placed in suitable 
+employment or whose family members have 
+been placed in suitable employment*: FY 2022-23
+FY 2021-22 | Total no. of affected 
+Employees/Workers*: 0
+5; No. of Employees/Workers that are 
+rehabilitated and placed in suitable 
+employment or whose family members have 
+been placed in suitable employment*: 0
+5 | Total no. of affected 
+Employees/Workers*: 2
+3; No. of Employees/Workers that are 
+rehabilitated and placed in suitable 
+employment or whose family members have 
+been placed in suitable employment*: 1
+3
+
+Table 146: | % of Value Chain Partners (by Value of business done with such Partners) that were Assessed: Contract Workers within ITC Premises 
+(Manpower Service Providers) | % of Value Chain Partners (by Value of business done with such Partners) that were Assessed: 100%
+
+Table 147: | Stakeholder Group: Providers of 
+Financial Capital; Whether 
+identified as 
+Vulnerable & 
+Marginalized 
+Group (Yes/No): No; Channels of Communication
+(Email, SMS, Newspaper, 
+Pamphlets, Advertisement, 
+Community Meetings, 
+Notice Board, Website), 
+Other: For more details on consultation mechanisms and key issues discussed with the 
+stakeholder groups, refer to ‘Strengthening Relationships with All Stakeholders’ 
+section of ITC Sustainability & Integrated Report 2023. | Stakeholder Group: Government and 
+Regulatory Authorities; Whether 
+identified as 
+Vulnerable & 
+Marginalized 
+Group (Yes/No): No | Stakeholder Group: Customers; Whether 
+identified as 
+Vulnerable & 
+Marginalized 
+Group (Yes/No): No | Stakeholder Group: Employees; Whether 
+identified as 
+Vulnerable & 
+Marginalized 
+Group (Yes/No): No | Stakeholder Group: Farmers; Whether 
+identified as 
+Vulnerable & 
+Marginalized 
+Group (Yes/No): Yes | Stakeholder Group: Value Chain Partners; Whether 
+identified as 
+Vulnerable & 
+Marginalized 
+Group (Yes/No): No | Stakeholder Group: Media; Whether 
+identified as 
+Vulnerable & 
+Marginalized 
+Group (Yes/No): No | Stakeholder Group: Civil Society; Whether 
+identified as 
+Vulnerable & 
+Marginalized 
+Group (Yes/No): No | Stakeholder Group: Local Communities; Whether 
+identified as 
+Vulnerable & 
+Marginalized 
+Group (Yes/No): Yes
+
+Table 148: | 2022-23: Total (A); 2021-22: Total (C)
+
+Table 149: | 2022-23: Total 
+(A); 2021-22: Total 
+(D) | Category: Employees | Category: Permanent; 2022-23: 23,725; 2021-22: 23,829 | Category: Male; 2022-23: 21,337; 2021-22: 21,568 | Category: Female; 2022-23: 2,388; 2021-22: 2,261 | Category: Other than 
+Permanent; 2022-23: 26,099; 2021-22: 25,513 | Category: Male; 2022-23: 22,157; 2021-22: 22,237 | Category: Female; 2022-23: 3,942; 2021-22: 3,276 | Category: Workers | Category: Permanent; 2022-23: 12,602; 2021-22: 12,734 | Category: Male; 2022-23: 11,948; 2021-22: 12,102 | Category: Female; 2022-23: 654; 2021-22: 632 | Category: Other than 
+Permanent; 2022-23: 25,987; 2021-22: 25,513 | Category: Male; 2022-23: 22,061; 2021-22: 22,237 | Category: Female; 2022-23: 3,926; 2021-22: 3,276
+
+Table 150: | Male: Number; Female: Number | Male: 14; Female: 2 | Male: 5; Female: - | Male: 21,332; Female: 2,388 | Male: 11,948; Female: 654
+
+Table 151: | FY 2022-23: Filed during 
+the Year; FY 2021-22: Filed during 
+the Year | FY 2022-23: 1*; FY 2021-22: 2 | FY 2022-23: 0; FY 2021-22: 0 | FY 2022-23: 0; FY 2021-22: 0 | FY 2022-23: 0; FY 2021-22: 0 | FY 2022-23: 2; FY 2021-22: 0 | FY 2022-23: 0; FY 2021-22: 0
+
+Table 152: | % of your Plants and 
+Offices that were 
+Assessed (by Entity or 
+Statutory Authorities or 
+Third Parties): 100% | % of your Plants and 
+Offices that were 
+Assessed (by Entity or 
+Statutory Authorities or 
+Third Parties): 100% | % of your Plants and 
+Offices that were 
+Assessed (by Entity or 
+Statutory Authorities or 
+Third Parties): 100% | % of your Plants and 
+Offices that were 
+Assessed (by Entity or 
+Statutory Authorities or 
+Third Parties): 100% | % of your Plants and 
+Offices that were 
+Assessed (by Entity or 
+Statutory Authorities or 
+Third Parties): 100%
+
+Table 153: | % of Value Chain Partners (by Value 
+of Business done with such 
+Partners) that were Assessed: Contract 
+Workers within 
+ITC Premises 
+(Manpower Service 
+Providers) | % of Value Chain Partners (by Value 
+of Business done with such 
+Partners) that were Assessed: 100%
+
+Table 154: | Parameter: Total Electricity Consumption (A); FY 2022-23: 2,061; FY 2021-22: 1,808 | Parameter: Total Fuel Consumption (B); FY 2022-23: 24,635; FY 2021-22: 22,407 | Parameter: Energy Consumption through other Sources (C); FY 2022-23: 189; FY 2021-22: 179 | Parameter: Total Energy Consumption (A+B+C); FY 2022-23: 26,885; FY 2021-22: 24,394 | Parameter: Energy Intensity Per Rupee of Turnover (Total energy consumption/turnover in rupees) 
+(GJ/Crore INR); FY 2022-23: 387; FY 2021-22: 413
+
+Table 155: | Parameter: Water Withdrawal by Source (in million kilolitres) | Parameter: (i) Surface Water; FY 2022-23: 27.1; FY 2021-22: 26.9 | Parameter: (ii) Groundwater; FY 2022-23: 5.5; FY 2021-22: 5.4 | Parameter: (iii) Third Party Water; FY 2022-23: 1.9; FY 2021-22: 1.4 | Parameter: (iv) Seawater/Desalinated Water; FY 2022-23: 0; FY 2021-22: 0 | Parameter: (v) Others; FY 2022-23: 0.1; FY 2021-22: 0.1 | Parameter: Total Volume of Water Withdrawal (in million kilolitres) (i + ii + iii + iv + v); FY 2022-23: 34.5; FY 2021-22: 33.7 | Parameter: Total Volume of Water Consumption (in million kilolitres); FY 2022-23: 14.5; FY 2021-22: 11.7 | Parameter: Water Intensity Per Rupee of Turnover (Water Withdrawal/Turnover) (kilolitre/Crore INR); FY 2022-23: 497; FY 2021-22: 569
+
+Table 156: | Parameter: NOx; Please Specify Unit: Tonnes; FY 2022-23: 2,382; FY 2021-22: 1,799 | Parameter: SOx; Please Specify Unit: Tonnes; FY 2022-23: 3,602; FY 2021-22: 3,203 | Parameter: Particulate Matter (PM); Please Specify Unit: Tonnes; FY 2022-23: 825; FY 2021-22: 637 | Parameter: Persistent Organic Pollutants (POP); Please Specify Unit: NA; FY 2022-23: NA; FY 2021-22: NA | Parameter: Volatile Organic Compounds (VOC); Please Specify Unit: NA; FY 2022-23: NA; FY 2021-22: NA | Parameter: Hazardous Air Pollutants (HAP)*; Please Specify Unit: Tonnes; FY 2022-23: 8; FY 2021-22: 7
+
+Table 157: | Parameter: Total Scope 1 Emissions (Break-up of the GHG into CO2, 
+CH4, N2O, HFCs, PFCs, SF6, NF3, if available); Please Specify Unit: Kilo tonnes of CO2 
+equivalent; FY 2022-23: 1,355; FY 2021-22: 1,258 | Parameter: Total Scope 2 Emissions
+(Break-up of the GHG into CO2, CH4, N2O, HFCs, PFCs, SF6, 
+NF3, if available); Please Specify Unit: Kilo tonnes of CO2 
+equivalent; FY 2022-23: 241; FY 2021-22: 193 | Parameter: Total Scope 1 and Scope 2 Emissions Per Rupee of 
+Turnover; Please Specify Unit: Tonnes of CO2/Lakh 
+INR; FY 2022-23: 23; FY 2021-22: 25
+
+Table 158: | Parameter (in Kilo tonnes): Plastic waste (A)*; FY 2022-23: -; FY 2021-22: - | Parameter (in Kilo tonnes): E-waste (B); FY 2022-23: 0.110; FY 2021-22: 0.071 | Parameter (in Kilo tonnes): Bio-medical Waste (C); FY 2022-23: 0.015; FY 2021-22: 0.018 | Parameter (in Kilo tonnes): Construction and Demolition Waste (D); FY 2022-23: 5.9; FY 2021-22: 6.5 | Parameter (in Kilo tonnes): Battery Waste (E); FY 2022-23: 0.2; FY 2021-22: 0.3 | Parameter (in Kilo tonnes): Radioactive Waste (F); FY 2022-23: 0.001; FY 2021-22: 0 | Parameter (in Kilo tonnes): Other Hazardous Waste. Please specify, if any. (G); FY 2022-23: 18; FY 2021-22: 20 | Parameter (in Kilo tonnes): Other Non-hazardous Waste Generated (H). Please specify, if any. 
+(Break-up by composition i.e. by materials relevant to the sector); FY 2022-23: 689; FY 2021-22: 699 | Parameter (in Kilo tonnes): Total (A + B + C + D + E + F + G + H); FY 2022-23: 713; FY 2021-22: 726 | Parameter (in Kilo tonnes): Total waste recovered through recycling, re-using or other recovery operations | Parameter (in Kilo tonnes): (i) Recycled; FY 2022-23: 702; FY 2021-22: 715 | Parameter (in Kilo tonnes): (ii) Re-used**; FY 2022-23: -; FY 2021-22: - | Parameter (in Kilo tonnes): (iii) Other recovery operations; FY 2022-23: 11; FY 2021-22: 10 | Parameter (in Kilo tonnes): Total; FY 2022-23: 713; FY 2021-22: 725 | Parameter (in Kilo tonnes): Total waste disposed by nature of disposal method | Parameter (in Kilo tonnes): (i) Incineration; FY 2022-23: 0.6; FY 2021-22: 0.6 | Parameter (in Kilo tonnes): (ii) Landfilling; FY 2022-23: 0.5; FY 2021-22: 0.3 | Parameter (in Kilo tonnes): (iii) Other disposal operations; FY 2022-23: 0.1; FY 2021-22: 0 | Parameter (in Kilo tonnes): Total; FY 2022-23: 1.3; FY 2021-22: 0.9
+
+Table 159: | Parameter**
+FY 2022-23
+FY 2021-22: From Renewable Sources | Parameter**
+FY 2022-23
+FY 2021-22: Total Electricity Consumption (A)@ | Parameter**
+FY 2022-23
+FY 2021-22: Total Fuel Consumption (B)# | Parameter**
+FY 2022-23
+FY 2021-22: Energy Consumption Through other Sources (C)$ | Parameter**
+FY 2022-23
+FY 2021-22: Total Energy Consumed from Renewable Sources (A+B+C) | Parameter**
+FY 2022-23
+FY 2021-22: From Non-renewable Sources | Parameter**
+FY 2022-23
+FY 2021-22: Total Electricity Consumption (D)@ | Parameter**
+FY 2022-23
+FY 2021-22: Total Fuel Consumption (E)# | Parameter**
+FY 2022-23
+FY 2021-22: Energy Consumption Through other Sources (F)$ | Parameter**
+FY 2022-23
+FY 2021-22: Total Energy Consumed from Non-renewable Sources (D+E+F)
+
+Table 160: | Parameter: Water Discharge by Destination and Level of Treatment (in million kilolitres) | Parameter: (i) To Surface Water; FY 2022-23: 11.7; FY 2021-22: 12.2 | Parameter: No Treatment; FY 2022-23: 0; FY 2021-22: 0 | Parameter: With Treatment – please specify level of Treatment; FY 2022-23: Secondary; FY 2021-22: Secondary | Parameter: (ii) To Groundwater; FY 2022-23: 0; FY 2021-22: 0 | Parameter: No Treatment; FY 2022-23: NA; FY 2021-22: NA | Parameter: With Treatment – please specify level of Treatment; FY 2022-23: NA; FY 2021-22: NA | Parameter: (iii) To Seawater; FY 2022-23: 0; FY 2021-22: 0 | Parameter: No Treatment; FY 2022-23: NA; FY 2021-22: NA | Parameter: With Treatment – please specify level of Treatment; FY 2022-23: NA; FY 2021-22: NA | Parameter: (iv) Sent to third-parties; FY 2022-23: 8.3; FY 2021-22: 9.8 | Parameter: No Treatment; FY 2022-23: 0; FY 2021-22: 0 | Parameter: With Treatment – please specify level of Treatment; FY 2022-23: Tertiary; FY 2021-22: Tertiary | Parameter: Total Water Discharged (in million kilolitres); FY 2022-23: 20.0; FY 2021-22: 22.0
+
+Table 161: | Parameter
+FY 2022-23
+FY 2021-22: Water Withdrawal by Source (in million kilolitres) | Parameter
+FY 2022-23
+FY 2021-22: (i) Surface Water | Parameter
+FY 2022-23
+FY 2021-22: (ii) Groundwater | Parameter
+FY 2022-23
+FY 2021-22: (iii) Third Party Water | Parameter
+FY 2022-23
+FY 2021-22: (iv) Seawater/Desalinated Water | Parameter
+FY 2022-23
+FY 2021-22: (v) Others | Parameter
+FY 2022-23
+FY 2021-22: Total volume of Water Withdrawal (in million kilolitres) | Parameter
+FY 2022-23
+FY 2021-22: Total volume of Water Consumption (in million kilolitres) | Parameter
+FY 2022-23
+FY 2021-22: Water Discharge by Destination and Level of Treatment (in million kilolitres) | Parameter
+FY 2022-23
+FY 2021-22: (i) Into Surface Water | Parameter
+FY 2022-23
+FY 2021-22: No Treatment | Parameter
+FY 2022-23
+FY 2021-22: With Treatment – please specify level of Treatment | Parameter
+FY 2022-23
+FY 2021-22: (ii) Into Groundwater | Parameter
+FY 2022-23
+FY 2021-22: No Treatment | Parameter
+FY 2022-23
+FY 2021-22: With Treatment – please specify level of Treatment | Parameter
+FY 2022-23
+FY 2021-22: (iii) Into Seawater | Parameter
+FY 2022-23
+FY 2021-22: No Treatment | Parameter
+FY 2022-23
+FY 2021-22: With Treatment – please specify level of Treatment | Parameter
+FY 2022-23
+FY 2021-22: (iv) Sent to third-parties | Parameter
+FY 2022-23
+FY 2021-22: No Treatment | Parameter
+FY 2022-23
+FY 2021-22: With Treatment – please specify level of Treatment | Parameter
+FY 2022-23
+FY 2021-22: Total Water Discharged (in million kilolitres)
+
+Table 162: | Parameter: Total Scope 3 Emissions (Break-up of the GHG into CO2, 
+CH4, N2O, HFCs, PFCs, SF6, NF3, if available); Unit: Kilo tonnes of CO2 
+equivalent; FY 2022-23: 295; FY 2021-22: 318 | Parameter: Total Scope 3 Emissions Per Rupee of Turnover; FY 2022-23: -; FY 2021-22: -
+
+Table 163: | S. No.: 1; Name of the Trade and Industry Chambers/ 
+Associations: ASSOCHAM; Reach of Trade and Industry Chambers/
+Associations (State/National): National | S. No.: 2; Name of the Trade and Industry Chambers/ 
+Associations: All India Management Association; Reach of Trade and Industry Chambers/
+Associations (State/National): National | S. No.: 3; Name of the Trade and Industry Chambers/ 
+Associations: Confederation of Indian Industry; Reach of Trade and Industry Chambers/
+Associations (State/National): National | S. No.: 4; Name of the Trade and Industry Chambers/ 
+Associations: Madras Management Association; Reach of Trade and Industry Chambers/
+Associations (State/National): State | S. No.: 5; Name of the Trade and Industry Chambers/ 
+Associations: Indian Merchants Chamber of Commerce; Reach of Trade and Industry Chambers/
+Associations (State/National): National | S. No.: 6; Name of the Trade and Industry Chambers/ 
+Associations: Mahratta Chamber of Commerce, Industries 
+& Agriculture; Reach of Trade and Industry Chambers/
+Associations (State/National): State | S. No.: 7; Name of the Trade and Industry Chambers/ 
+Associations: PHD Chamber of Commerce & Industry; Reach of Trade and Industry Chambers/
+Associations (State/National): National | S. No.: 8; Name of the Trade and Industry Chambers/ 
+Associations: Bombay Management Association; Reach of Trade and Industry Chambers/
+Associations (State/National): State | S. No.: 9; Name of the Trade and Industry Chambers/ 
+Associations: Federation of Indian Chambers of Commerce 
+& Industry; Reach of Trade and Industry Chambers/
+Associations (State/National): National | S. No.: 10; Name of the Trade and Industry Chambers/ 
+Associations: Retailers Association of India; Reach of Trade and Industry Chambers/
+Associations (State/National): National
+
+Table 164: | S. 
+No.: 1.; Public Policy 
+Advocated: The Company’s Policy 
+on Responsible 
+Advocacy approved 
+by the Board provides 
+the framework for 
+necessary interface 
+with Government/
+Regulatory Authorities 
+on matters concerning 
+various sectors in 
+which the Company 
+operates.
+Sector-wise matters 
+taken up are in line 
+with national priorities 
+to strengthen 
+domestic industry, 
+promoting sustainable 
+agriculture and 
+business practices.; Method Resorted for 
+such Advocacy: The Company works with 
+apex industry institutions 
+that are engaged in 
+policy advocacy, like the 
+Confederation of Indian 
+Industry, Federation 
+of Indian Chambers of 
+Commerce & Industry, 
+Associated Chambers of 
+Commerce and Industry 
+of India, and various 
+other forums including 
+regional Chambers of 
+Commerce
+The Company’s 
+engagement with the 
+relevant authorities is 
+guided by the values of 
+commitment, integrity, 
+transparency and taking 
+into consideration 
+interests of all 
+stakeholders.; Whether 
+Information 
+Available in Public 
+Domain?
+(Yes/No): For more details, 
+refer to ‘Report 
+of the Board 
+of Directors & 
+Management 
+Discussion and 
+Analysis’ section 
+forming part of 
+ITC’s Report and 
+Accounts 2023.; Frequency of 
+Review by Board 
+(Annually/Half-
+yearly/Quarterly/
+Others – please 
+specify): Annually; Web Link, if 
+available: -
+
+Table 165: | Name and brief
+details of project: Not Applicable
+
+Table 166: | Amounts paid 
+% of PAFs 
+State
+District
+No. of Project 
+S. No.
+Name of 
+to PAFs in the 
+covered by 
+Affected 
+Project for 
+FY (In INR)
+R&R
+Families 
+which R&R is 
+(PAFs)
+ongoing: Not Applicable
+
+Table 167: | FY 2022-23: 18.81%; FY 2021-22: 15.76% | FY 2022-23: 53.40%; FY 2021-22: 45.73%
+
+Table 168: | State: Telangana; Aspirational District: Bhadradri Kothagudem; Amount (Rs. In Lakhs): 1024.44 | State: Uttarakhand; Aspirational District: Haridwar; Amount (Rs. In Lakhs): 604.24 | State: Assam; Aspirational District: Darrang; Amount (Rs. In Lakhs): 292.11 | State: Rajasthan; Aspirational District: Baran; Amount (Rs. In Lakhs): 252.37 | State: Madhya Pradesh; Aspirational District: Vidisha; Amount (Rs. In Lakhs): 243.99 | State: Odisha; Aspirational District: Malkangiri; Amount (Rs. In Lakhs): 225.64 | State: Madhya Pradesh; Aspirational District: Damoh; Amount (Rs. In Lakhs): 156.05 | State: Uttar Pradesh; Aspirational District: Chandauli; Amount (Rs. In Lakhs): 115.95 | State: Bihar; Aspirational District: Begusarai; Amount (Rs. In Lakhs): 112.35 | State: Chhattisgarh; Aspirational District: Sukma; Amount (Rs. In Lakhs): 89.69 | State: Uttar Pradesh; Aspirational District: Bahraich; Amount (Rs. In Lakhs): 88.17 | State: Multiple* (15 States); Aspirational District: Multiple*; Amount (Rs. In Lakhs): 1117.64
+
+Table 169: | CSR Projects: Climate Smart Agriculture; No. of Beneficiaries from 
+CSR Projects (2022-23): 7.4 lakhs#; % of Beneficiaries from Vulnerable 
+and Marginalised Groups: SC/ST – 21%; Female – 20% | CSR Projects: Water Stewardship; No. of Beneficiaries from 
+CSR Projects (2022-23): 32,400; % of Beneficiaries from Vulnerable 
+and Marginalised Groups: SC/ST – 25%; Female – 22% | CSR Projects: Social Forestry; No. of Beneficiaries from 
+CSR Projects (2022-23): 8,795; % of Beneficiaries from Vulnerable 
+and Marginalised Groups: SC/ST – 25%; Female – 26% | CSR Projects: Improved Animal Husbandry Practices; No. of Beneficiaries from 
+CSR Projects (2022-23): 79,400; % of Beneficiaries from Vulnerable 
+and Marginalised Groups: SC/ST – 19%; Female – 60% | CSR Projects: Support to Education; No. of Beneficiaries from 
+CSR Projects (2022-23): 2.5 lakhs; % of Beneficiaries from Vulnerable 
+and Marginalised Groups: Children – 100%; ~50% girl children | CSR Projects: Skilling of Youth; No. of Beneficiaries from 
+CSR Projects (2022-23): 14,400; % of Beneficiaries from Vulnerable 
+and Marginalised Groups: SC/ST – 34%; Female – 46% | CSR Projects: Sanitation; No. of Beneficiaries from 
+CSR Projects (2022-23): 6,930; % of Beneficiaries from Vulnerable 
+and Marginalised Groups: SC/ST – 5% | CSR Projects: Waste Management; No. of Beneficiaries from 
+CSR Projects (2022-23): 25.3 lakhs; % of Beneficiaries from Vulnerable 
+and Marginalised Groups: SC/ST – 18% | CSR Projects: Mother and Child Health and 
+Nutrition; No. of Beneficiaries from 
+CSR Projects (2022-23): 6.8 lakhs; % of Beneficiaries from Vulnerable 
+and Marginalised Groups: 100% - women, adolescents 
+and children | CSR Projects: Women Empowerment; No. of Beneficiaries from 
+CSR Projects (2022-23): 8.1 lakhs*; % of Beneficiaries from Vulnerable 
+and Marginalised Groups: 100% women
+
+Table 170: | Objective
+Initiatives
+UoM
+Target 
+Achieved till
+2030
+FY 2022-23: Horizon I - Sustainable Livelihoods Today | Objective
+Initiatives
+UoM
+Target 
+Achieved till
+2030
+FY 2022-23: Climate Smart Agriculture for 
+Climate Risk Assessments, 
+Climate Change Adaptation, 
+and Actions for Sustainable 
+Improvement of Yields and 
+Incomes | Objective
+Initiatives
+UoM
+Target 
+Achieved till
+2030
+FY 2022-23: Natural Resources 
+Management to Conserve and 
+Replenish Natural Resources 
+Critical for Agriculture | Objective
+Initiatives
+UoM
+Target 
+Achieved till
+2030
+FY 2022-23: Livelihood Diversification to 
+Improve Incomes and 
+De-risk Livelihoods from 
+Climate Change | Objective
+Initiatives
+UoM
+Target 
+Achieved till
+2030
+FY 2022-23: Institutional Support for Risk 
+Mitigation and Reduction of 
+Costs of Cultivation
+
+Table 171: | Objective
+Initiatives
+UoM
+Target 
+Achieved till
+2030
+FY 2022-23: Horizon II - Creating Capabilities for Tomorrow | Objective
+Initiatives
+UoM
+Target 
+Achieved till
+2030
+FY 2022-23: Support to Education for 
+Improving Quality of Education 
+and Creating Conducive 
+Learning Environment | Objective
+Initiatives
+UoM
+Target 
+Achieved till
+2030
+FY 2022-23: Skilling of Youth for Enabling 
+Livelihood and Employability | Objective
+Initiatives
+UoM
+Target 
+Achieved till
+2030
+FY 2022-23: Provide Access to Sanitation 
+and Waste Management 
+Services to Improve Habitats | Objective
+Initiatives
+UoM
+Target 
+Achieved till
+2030
+FY 2022-23: Provide Healthcare and 
+Nutrition services to Women 
+and Children | Objective
+Initiatives
+UoM
+Target 
+Achieved till
+2030
+FY 2022-23: Empowering Women for 
+Reduction in Economic and 
+Social Discrimination
+
+Table 172: | FY 2022-23
+(Current Financial
+Year): Received 
+during 
+the Year; FY 2021-22
+(Previous Financial Year): Received during 
+Pending
+the Year
+resolution at
+end of Year | FY 2022-23
+(Current Financial
+Year): 0; Remarks: A Customer Relationship 
+Management (CRM) 
+platform has been 
+implemented for capturing 
+complaints, queries, 
+feedback and suggestions 
+received across channels. 
+The CRM platform also 
+provides consumer 
+insights for bringing about 
+process-related changes 
+and system enhancements 
+for improving the CSAT 
+(Customer Satisfaction) 
+scores.; FY 2021-22
+(Previous Financial Year): During FY 2021-22, around 10,000 complaints 
+were received across Businesses, and more 
+than 97% of these were resolved as on 31st 
+March, 2022. | FY 2022-23
+(Current Financial
+Year): 13 | FY 2022-23
+(Current Financial
+Year): 0 | FY 2022-23
+(Current Financial
+Year): 521 | FY 2022-23
+(Current Financial
+Year): 726 | FY 2022-23
+(Current Financial
+Year): 13 | FY 2022-23
+(Current Financial
+Year): 17,573
+
+Table 173: | Category: Delivery of Essential Services; Complaints Related to: Availability Related | Category: Restrictive Trade Practices; Complaints Related to: Quantity and Weightage Related, Duplicate Pack | Category: Unfair Trade Practices; Complaints Related to: H
+i
+gh Pricing (Product sold above MRP) | Category: Others; Complaints Related to: Product Quality Related Complaints, Service Related Complaints Against Distributor/
+Retailer/Salesmen, Availability led Complaints, and Complaints Made on Account of 
+Fraudulent Calls/E-mails Offering ITC’s Distributorship
+
+Table 174: | Products/Initiative: ITC Corporate Website; Link: https://www.itcportal.com/ | Products/Initiative: ITC’s Businesses; Link: https://www.itcportal.com/businesses/index.aspx | Products/Initiative: ITCstore.in; Link: https://itcstore.in | Products/Initiative: ITC Brandworld; Link: https://www.itcportal.com/brands-microsite/default.aspx | Products/Initiative: “WeAssure” Programme; Link: https://www.itchotels.com/content/dam/itchotels/in/umbrella/documents/WeAssure-
+itc-hotels.pdf
+
+Table 178:
+
+Table 179:
