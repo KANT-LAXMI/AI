@@ -128,8 +128,6 @@ However, **Vector Search can be exposed as a plugin** to the Kernel. When expose
 In Semantic Kernel, **plugins** are named containers that group related **functions**.  
 Each plugin can contain one or more functions.
 
-When plugins are registered with the Kernel, the Kernel can use them in two main ways:
-
 1. **Expose functions to the Chat Completion AI**
 
    - Allows the AI model to see available functions
@@ -329,6 +327,7 @@ class PizzaPlugin:
 
     # @kernel_function exposes this method to the LLM
     # The LLM can "see" this function and call it when needed
+
     @kernel_function(
         description="Checks balance amount in rupees on users pizza wallet; returns the balance amount"
     )
@@ -375,7 +374,23 @@ class PizzaPlugin:
 
 ```
 
-Here, the functions decorated with the `@kernel_function` decorator are automatically converted into JSON schema and sent to the model, something we often have to define manually in other frameworks.
+Here, the functions decorated with the `@kernel_function` decorator are automatically converted into JSON schema and sent to the model,allowing the model to understand available tools without developers manually defining tool schemas. something we often have to define manually in other frameworks.
+
+### What this really means:
+
+👉 You write normal Python/C# code
+
+👉 Semantic Kernel auto-generates the “tool definition” for the LLM
+
+👉 No manual JSON needed
+
+![alt text](image-10.png)
+
+![alt text](image-11.png)
+
+![alt text](image-12.png)
+
+![alt text](image-13.png)
 
 But yeah, we may lose some control from a developer perspective when things become more abstract.
 
