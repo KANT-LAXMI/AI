@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "simple-mcp-server": {
+      "command": "python",
+      "args": [
+        "C:/Users/LaxmiKant/OneDrive - C3IT Software Solutions Pvt. Ltd/OLD_DATA/Desktop/self/new/AI/MCP/simple.py"
+      ]
+    }
+  }
+}
