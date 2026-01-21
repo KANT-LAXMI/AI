@@ -75,6 +75,8 @@ Context comes from:
 
 `Model Context Protocol (MCP)` is an open-source protocol that defines how AI applications `provide context to Large Language Models (LLMs).`
 
+![alt text](image-29.png)
+
 ## Purpose
 
 MCP standardizes the connection between AI models and external systems, enabling seamless access to:
@@ -88,13 +90,11 @@ MCP standardizes the connection between AI models and external systems, enabling
 Using MCP, AI applications (such as ChatGPT or Claude) can connect to:
 
 - **Data Sources**
-
   - Local files
   - Databases
   - External APIs
 
 - **Tools**
-
   - Search engines
   - Calculators
   - Custom utilities
@@ -118,6 +118,7 @@ MCP uses a `client–host–server architecture`, where:
 
 - `Where each host can run multiple client instances`
 - `Clients connect to servers to exchange context`
+- `Servers tool provider that exposes math functions over MCP via Stdio/SSE.`
 
 ![alt text](image-1.png)
 
@@ -692,13 +693,23 @@ Each server is focused on a **single responsibility**.
 
 ## A) Create Servers
 
-## 1.Math Server -> math_server.py
+## 1. Math Server -> math_server.py
 
 ```python
 from mcp.server.fastmcp import FastMCP
 
+# =====================================================
+# PROTOCOL HANDLER + SERVER RUNTIME
+# - FastMCP implements the MCP protocol
+# - Handles tool registration, message parsing,
+#   request/response framing
+# =====================================================
 mcp = FastMCP("Math")
 
+# =====================================================
+# TOOL DEFINITIONS (SERVER-SIDE CAPABILITIES)
+# - These are exposed to the agent via MCP
+# =====================================================
 @mcp.tool()
 def add(a: int, b: int) -> int:
     """Add two numbers"""
@@ -710,8 +721,47 @@ def multiply(a: int, b: int) -> int:
     return a * b
 
 if __name__ == "__main__":
+
+    # =====================================================
+    # TRANSPORT LAYER
+    # - stdio = local process communication
+    # - Used for local tools / sandboxed execution
+    #
+    # FLOW STEP:
+    # (3) Client launches this process
+    # (4) MCP protocol handshake happens over stdio
+    # =====================================================
     mcp.run(transport="stdio")
+
 ```
+
+# Math MCP Tool Server (stdio)
+
+This file defines a `tool provider` that exposes simple math functions to LLM agents using **Model Context Protocol (MCP)** over **stdio**.
+
+## 📌 What This File Is
+
+- An **MCP server**
+- Provides **math tools** (e.g. `add`)
+- Communicates via **stdin / stdout**
+- Designed to be **launched automatically**, not run manually
+
+## 🧠 Core Concept
+
+```python
+from mcp.server.fastmcp import FastMCP
+
+mcp = FastMCP("Math")
+
+# Creates an MCP server named Math
+# This name is what clients see
+```
+
+![alt text](image-28.png)
+
+![alt text](image-21.png)
+
+![alt text](image-22.png)
 
 ## 2. Weather Server -> weather.py
 
@@ -720,14 +770,21 @@ from typing import Any
 import httpx
 from mcp.server.fastmcp import FastMCP
 
-# Initialize FastMCP server
+# =====================================================
+# PROTOCOL HANDLER + SERVER
+# - MCP server that exposes weather tools remotely
+# =====================================================
 mcp = FastMCP("weather")
 
-# Constants
+# =====================================================
+# EXTERNAL API CONFIG
+# =====================================================
 NWS_API_BASE = "https://api.weather.gov"
 USER_AGENT = "weather-app/1.0"
 
-
+# =====================================================
+# INTERNAL HELPER (NOT EXPOSED AS TOOL)
+# =====================================================
 async def make_nws_request(url: str) -> dict[str, Any] | None:
     """Make a request to the NWS API with proper error handling."""
     headers = {
@@ -754,7 +811,9 @@ Description: {props.get('description', 'No description available')}
 Instructions: {props.get('instruction', 'No specific instructions provided')}
 """
 
-
+# =====================================================
+# TOOL 1: WEATHER ALERTS
+# =====================================================
 @mcp.tool()
 async def get_alerts(state: str) -> str:
     """Get weather alerts for a US state.
@@ -774,7 +833,9 @@ async def get_alerts(state: str) -> str:
     alerts = [format_alert(feature) for feature in data["features"]]
     return "\n---\n".join(alerts)
 
-
+# =====================================================
+# TOOL 2: WEATHER FORECAST
+# =====================================================
 @mcp.tool()
 async def get_forecast(latitude: float, longitude: float) -> str:
     """Get weather forecast for a location.
@@ -813,9 +874,44 @@ Forecast: {period['detailedForecast']}
 
 
 if __name__ == "__main__":
-    # Initialize and run the server
+
+    # =====================================================
+    # TRANSPORT LAYER
+    # - SSE (Server-Sent Events)
+    # - Remote-capable HTTP streaming server
+    #
+    # FLOW STEP:
+    # (2) Weather server started independently
+    # (3) Client connects over HTTP/SSE
+    # =====================================================
     mcp.run(transport='sse')
 ```
+
+# Weather MCP Server (SSE / HTTP Streaming)
+
+This file defines a **remote-capable server** that exposes **weather-related tools** using **Server-Sent Events (SSE)** over HTTP.
+
+Unlike stdio-based MCP servers, this server runs as a **long-lived HTTP service** and supports **multiple remote clients**.
+
+## 🌦️ What This File Is
+
+- An **MCP server** for weather data
+- Exposes tools over **HTTP**
+- Uses **SSE (Server-Sent Events)** for streaming responses
+- Can be accessed **locally or remotely**
+
+## 🔁 Key Difference vs Math MCP Server
+
+| Feature   | Math Server    | Weather Server   |
+| --------- | -------------- | ---------------- |
+| Transport | `stdio`        | `sse`            |
+| Protocol  | stdin / stdout | HTTP             |
+| Network   | No             | Yes              |
+| Startup   | Auto-spawned   | Manually started |
+| Clients   | Single         | Multiple         |
+| Streaming | No             | Yes              |
+
+## 🚀 Running the MCP Server
 
 ## B) Create client -> langchain_mcp_multiserver.py
 
@@ -836,8 +932,14 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
-#model = ChatGroq(model="llama-3.3-70b-versatile",temperature=0.5)
+# model = ChatGroq(model="llama-3.3-70b-versatile",temperature=0.5)
 # model = ChatOllama(model="llama3.2:1b",temperature=0.0,max_new_tokens=500)
+
+# =====================================================
+# MODEL LAYER
+# - This is the LLM brain
+# - Decides which tool to call
+# =====================================================
 model = ChatOllama(
     model="llama3.2:3b",
     temperature=0.0,
@@ -851,7 +953,21 @@ server_params = StdioServerParameters(
     args=["weather.py"],
 )
 
+
+# =====================================================
+# CLIENT APPLICATION (ENTRY POINT)
+# - You type the query here
+# =====================================================
 async def run_app(user_question):
+    # =====================================================
+    # MCP CLIENT (MULTI-SERVER)
+    # - Connects to multiple MCP servers
+    # - Handles protocol + transport negotiation
+    #
+    # SERVERS:
+    # 1. Weather → SSE (remote HTTP)
+    # 2. Math    → stdio (local process)
+    # =====================================================
     client = MultiServerMCPClient(
         {
             "weather": {
@@ -869,10 +985,26 @@ async def run_app(user_question):
     # Load MCP tools
     tools = await client.get_tools()
 
-    # Create ReAct agent
+    # =====================================================
+    # AGENT LAYER
+    # - ReAct agent
+    # - Uses LLM + tools
+    # =====================================================
     agent = create_react_agent(model, tools)
 
-    # Run agent
+    # =====================================================
+    # FLOW STEP BREAKDOWN
+    #
+    # (1) User enters query
+    # (2) Agent sends prompt to LLM
+    # (3) LLM reasons about intent
+    # (4) LLM decides tool call
+    # (5) MCP client routes request
+    # (6) Transport layer sends request
+    # (7) Tool executes on server
+    # (8) Tool result returns via MCP
+    # (9) LLM produces final answer
+    # =====================================================
     agent_response = await agent.ainvoke(
         {"messages": user_question}
     )
@@ -881,6 +1013,9 @@ async def run_app(user_question):
 
 
 if __name__ == "__main__":
+    # =====================================================
+    # APPLICATION START
+    # =====================================================
     #user_question = "what is the weather in california?"
     user_question = "what's (3 + 5) x 12?"
     #user_question = "what's the weather in seattle?"
@@ -890,6 +1025,18 @@ if __name__ == "__main__":
 
 ```
 
+![alt text](image-23.png)
+
+![alt text](code_seq-1.png)
+
 ![Alt text](image-20.png)
 
 `Note here the MCP Client is able to make connections to respective servers based on the question asked. We did not explicitly mention any routing logic.`
+
+![alt text](image-24.png)
+
+![alt text](image-25.png)
+
+![alt text](image-26.png)
+
+![alt text](image-27.png)

@@ -61,8 +61,8 @@ async def run_app(user_question):
 
 if __name__ == "__main__":
     #user_question = "what is the weather in california?"
-    user_question = "what's (3 + 5) x 12?"
+    # user_question = "what's (3 + 5) x 12?"
     #user_question = "what's the weather in seattle?"
-    # user_question = "what's the weather in INDIA?"
+    user_question = "what's the weather in INDIA?"
     response = asyncio.run(run_app(user_question=user_question))
     print(response)

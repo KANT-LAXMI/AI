@@ -1,0 +1,37 @@
+# Core Dependencies
+streamlit
+python-dotenv
+
+# Semantic Kernel
+semantic-kernel
+
+# MCP (Model Context Protocol)
+mcp
+fastmcp
+
+# LangChain & Ollama
+langchain
+langchain-community
+langchain-ollama
+langgraph
+langchain-mcp-adapters
+
+# Database
+aiosqlite
+
+# HTTP & Web Scraping
+httpx
+beautifulsoup4
+lxml
+
+# Data Processing
+pandas
+numpy
+
+# UI Components
+plotly
+streamlit-aggrid
+
+# Utilities
+pydantic
+pyyaml
